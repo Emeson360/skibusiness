@@ -1,7 +1,7 @@
 <?php
 
 include_once __DIR__ . '/ski/includes/database.php';
-
+fg
 ?>
 
 <!doctype html>
