@@ -1,0 +1,1045 @@
+.banner-wrapper-box .carousel-inner .carousel-item {
+
+  background-repeat: no-repeat;
+
+  border-bottom: 1px solid #dadada;
+
+  background-position: left bottom;
+
+  /* padding: 235px 0; */
+
+  min-height: 75vh;
+
+  background-size: cover;
+
+}
+
+
+
+.banner-wrp-main {
+
+  width: 50%;
+
+}
+
+
+
+.banner-slider-box h1 {
+
+  font-size: 38px;
+
+  font-weight: 500;
+
+  margin-bottom: 20px;
+
+  color: var(--text-color);
+
+}
+
+
+
+.banner-text-box {
+
+  font-size: 16px;
+
+  color: var(--commoa-text-color);
+
+  font-weight: 600;
+
+  color: var(--text-color);
+
+}
+
+
+
+.banner-btn-box {
+
+  margin-top: 30px;
+
+}
+
+
+
+
+
+.banner-wrapper-box .carousel-control-prev {
+
+  bottom: unset;
+
+  top: 44%;
+
+  width: unset;
+
+  left: 130px;
+
+}
+
+
+
+.banner-wrapper-box .carousel-control-next {
+
+  top: 44%;
+
+  right: 130px;
+
+  bottom: unset;
+
+  width: unset;
+
+}
+
+
+
+.carousel-indicators {
+
+  display: none;
+
+}
+
+
+
+/* sectione css */
+
+.title-box {
+
+  text-align: center;
+
+  font-weight: 600;
+
+  line-height: 30px;
+
+  font-size: 28px;
+
+  position: relative;
+
+}
+
+
+
+.head_bg_blue {
+
+  background: #37021f;
+
+  height: 2px;
+
+  width: 100px;
+
+  text-align: center;
+
+  margin: 0px auto;
+
+}
+
+
+
+.head_bg_round {
+
+  background: #ccccff;
+
+  padding: 1px;
+
+  border: 3px solid #fff;
+
+  width: 20px;
+
+  bottom: 3px;
+
+  left: -3px;
+
+  position: relative;
+
+}
+
+
+
+.whoare-mission-content {
+
+  padding-top: 60px;
+
+}
+
+
+
+.mission-icon svg {
+
+  margin: auto;
+
+  display: block;
+
+  margin-bottom: 8px;
+
+}
+
+
+
+.mission-title {
+
+  margin-bottom: 10px;
+
+}
+
+
+
+.mission-title h4 {
+
+  font-size: 22px;
+
+  line-height: 40px;
+
+  color: var(--commoa-text-color);
+
+  text-align: center;
+
+  margin-bottom: 10px;
+
+}
+
+
+
+.mission-title p {
+  font-size: 15px;
+  line-height: 20px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 100%;
+  height: 100px;
+  margin: 0 auto;
+  -webkit-box-orient: vertical;
+}
+
+
+
+.mission-btn {
+
+  text-align: center;
+
+}
+
+
+
+
+
+.sponsorship-content {
+
+  margin-top: 95px;
+
+}
+
+
+
+.sponsorship-content h4 {
+
+  text-align: center;
+
+  font-size: 28px;
+
+}
+
+
+
+.sponsorship-btn {
+
+  text-align: center;
+
+  margin-top: 30px;
+
+
+
+}
+
+
+
+.sponsorship-btn a {
+
+  font-size: 18px;
+
+  color: var(--text-color);
+
+  background: var(--background);
+
+  padding: 15px 20px;
+
+  border-radius: 8px;
+
+  transition: 0.6s;
+
+}
+
+.sponsorship-btn a:hover{
+
+  background: var(--btn-color);
+
+}
+
+.our-mission-card {
+
+  padding: 40px;
+
+  background: #eee;
+
+  box-shadow: 0 5px 15px rgb(0 0 0 / 20%);
+
+  height: 360px;
+
+}
+
+
+
+/* .about css */
+
+.about-wrapper-box {
+
+  padding-top: 75px;
+
+}
+
+
+
+.about-wrapper {
+
+  background: var(--background);
+
+}
+
+
+
+.about-img img {
+
+  width: 420px;
+
+  height: 470px;
+
+  object-fit: cover;
+
+}
+
+
+
+.about-content {
+
+  display: flex;
+
+  align-items: center;
+
+}
+
+
+
+.about-information-main {
+
+  padding: 40px;
+
+  /* background: #fff; */
+
+  box-shadow: 0 5px 15px rgb(0 0 0 / 20%);
+
+  margin-left: -70px;
+
+  background: linear-gradient(to right, rgb(156 53 148 / 83%), rgb(111 30 96 / 82%), rgb(52 1 29 / 74%));
+
+  height: 400px;
+
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+
+}
+
+
+
+
+
+
+
+.about-text-box p {
+
+  font-size: 15px;
+
+  line-height: 20px;
+
+  color: #fff;
+
+  margin: 15px 0;
+
+}
+
+
+
+.about-title h3 {
+
+  font-size: 28px;
+
+  line-height: 30px;
+
+  color: #fff;
+
+}
+
+
+
+
+
+
+
+/* .product css */
+
+
+
+.products-title-box h3 {
+
+  text-align: center;
+
+  text-transform: capitalize;
+
+  font-weight: 600;
+
+  line-height: 30px;
+
+  font-size: 28px;
+
+}
+
+
+
+.products-title-box {
+
+  margin-bottom: 40px;
+
+}
+
+
+
+.products-img {
+
+  background: url(../images/activate.jpg);
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+}
+
+
+
+.product-btn-box {
+
+  text-align: center;
+
+  margin-top: 50px;
+
+}
+
+
+
+
+
+#vueBind {
+
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  grid-gap: 15px;
+
+  position: relative;
+
+
+
+}
+
+
+
+
+
+.card .btn {
+
+  cursor: pointer;
+
+  margin-top: 10px;
+
+  padding: 0.75rem 1.5rem;
+
+  font-size: 0.65rem;
+
+  font-weight: bold;
+
+  letter-spacing: 0.025rem;
+
+  text-transform: uppercase;
+
+  color: white;
+
+  background: var(--btn-color);
+
+  border: none;
+
+}
+
+
+
+.card .btn:hover {
+
+  background-color: #2b5262;
+
+  color: #fff;
+
+}
+
+
+
+#vueBind .card {
+
+  position: relative;
+
+  overflow: hidden;
+
+  box-shadow: 0 5px 15px rgba(0, 0, 0, .2);
+
+  border-radius: 8px;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  cursor: pointer;
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.479)), url(../images/pexels-kristina-paukshtite-3270223.jpg);
+
+  background-repeat: no-repeat !important;
+
+  background-size: cover !important;
+
+  padding: 40px;
+
+}
+
+
+
+#vueBind .card-bg2 {
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.479)), url(../images/products-img.jpg);
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  padding: 40px;
+
+}
+
+
+
+#vueBind .card-bg3 {
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.479)), url(../images/pexels-laryssa-suaid-1667088.jpg);
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  padding: 40px;
+
+}
+
+
+
+#vueBind .card-bg4 {
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.479)), url(../images/pexels-karolina-grabowska-5650052.jpg);
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  padding: 40px;
+
+}
+
+
+
+#vueBind .card-bg5 {
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.479)), url(../images/pexels-kristina-paukshtite-3270223.jpg);
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  padding: 40px;
+
+}
+
+
+
+#vueBind .card-bg6 {
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.479)), url(../images/products-img.jpg);
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  padding: 40px;
+
+}
+
+
+
+#vueBind .card-bg7 {
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.479)), url(../images/pexels-aleksandar-pasaric-3423860.jpg);
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  padding: 40px;
+
+}
+
+
+
+/* #vueBind .card-bg8{
+
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.479)), url(../images/pexels-𝐕𝐞𝐧𝐮𝐬-𝐇𝐃-𝐌𝐚𝐤𝐞-𝐮𝐩-&-𝐏𝐞𝐫𝐟𝐮𝐦𝐞-2693644.jpg);
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  padding: 40px;
+
+} */
+
+#vueBind .card .imgBox {
+
+  width: 100%;
+
+  height: 100%;
+
+  margin-top: 60px;
+
+}
+
+
+
+.imgBox h4 {
+
+  color: #fff;
+
+  display: block;
+
+  margin: auto;
+
+  width: 100%;
+
+  font-size: 26px;
+
+  padding-top: 40px;
+
+}
+
+
+
+.imgBox p {
+
+  color: #fff;
+
+  display: block;
+
+  margin: auto;
+
+  width: 100%;
+
+  font-size: 18px;
+
+  padding-top: 10px;
+
+}
+
+
+
+#vueBind .card .imgBox img {
+
+  width: 100%;
+
+  height: 100%;
+
+  background-position: center;
+
+  background-size: cover;
+
+  object-fit: cover;
+
+  transition: .3s ease-in-out;
+
+}
+
+
+
+#vueBind.card:hover .imgBox img {
+
+  transform: translateY(-20px);
+
+}
+
+
+
+#vueBind .card .content {
+
+  position: absolute;
+
+  bottom: -200px;
+
+  width: 100%;
+
+  height: 200px;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  z-index: 10;
+
+  flex-direction: column;
+
+  backdrop-filter: blur(15px);
+
+  box-shadow: 0 -10px 10px rgba(0, 0, 0, .1);
+
+  border: 1px solid rgba(255, 255, 255, 0.2);
+
+  color: #fff;
+
+  transition: bottom .4s ease-in-out;
+
+     padding: 10px;
+
+}
+
+
+
+#vueBind .card:hover .content {
+
+  bottom: 0px;
+
+}
+
+
+
+#vueBind .card .content .contentBox h3 {
+
+  color: #fff;
+
+  text-transform: uppercase;
+
+  letter-spacing: 2px;
+
+  font-weight: 500;
+
+  font-size: 18px;
+
+  text-align: center;
+
+  line-height: 1.1em;
+
+  transition: .5s;
+
+  margin-bottom: 10px;
+
+  opacity: 0;
+
+  transform: translateY(-20px);
+
+}
+
+
+
+#vueBind .card:hover .content .contentBox h3 {
+
+  opacity: 1;
+
+  transform: translateY(0);
+
+}
+
+
+
+#vueBind .card .content .contentBox h3>span {
+
+  font-size: 12px;
+
+  font-weight: 300;
+
+  text-transform: initial;
+
+}
+
+
+
+#vueBind .card .content .social {
+
+  position: relative;
+
+  bottom: 10px;
+
+  display: flex;
+
+}
+
+
+
+#vueBind .card .content .social li {
+
+  list-style: none;
+
+  margin: 0 10px;
+
+  transform: translateY(40px);
+
+  transition: .5s;
+
+  opacity: 0;
+
+  transition-delay: calc(0.2s * var(--i))
+
+}
+
+
+
+#vueBind .card:hover .content .social li {
+
+  transform: translateY(0);
+
+  opacity: 1;
+
+}
+
+
+
+#vueBind .card .content .social li a {
+
+  color: #fff;
+
+  font-size: 24px;
+
+}
+
+
+
+.f:hover {
+
+  color: #4287f5;
+
+}
+
+
+
+.i:hover {
+
+  color: #fc44b3;
+
+}
+
+
+
+.t:hover {
+
+  color: #448efc;
+
+}
+
+
+
+/* form css */
+
+.account-content-box {
+
+  width: 50%;
+
+}
+
+
+
+.account-login {
+
+  background: #863382;
+
+  padding: 40px;
+
+  margin-top: 40px;
+
+}
+
+
+
+.name-box {
+
+  display: flex;
+
+  gap: 20px;
+
+  align-items: center;
+
+}
+
+
+
+.emil-box {
+
+  display: flex;
+
+  gap: 20px;
+
+  align-items: center;
+
+  margin-top: 20px;
+
+}
+
+
+
+.input-box label {
+
+  font-size: 16px;
+
+  font-weight: 500;
+
+  color: #fff;
+
+}
+
+
+
+.input-box input {
+
+  padding: 5px 10px;
+
+  border: 0;
+
+  width: 100%;
+
+  border-radius: 5px;
+
+}
+
+
+
+.input-box input::placeholder {
+
+  font-size: 14px;
+
+}
+
+
+
+.input-box {
+
+  width: 50%;
+
+}
+
+
+
+.textarea-box {
+
+  display: flex;
+
+  flex-direction: column;
+
+  margin-top: 20px;
+
+  width: 48%;
+
+}
+
+
+
+.textarea-box label {
+
+  font-size: 18px;
+
+  font-weight: 500;
+
+  color: #fff;
+
+}
+
+
+
+.textarea-box input {
+
+  padding: 5px 10px;
+
+  border-radius: 5px;
+
+  border: 0;
+
+}
+
+
+
+.textarea-box input::placeholder {
+
+  font-size: 14px;
+
+}
+
+
+
+.submit-btn-box {
+
+  text-align: center;
+
+  margin-top: 30px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+}
+
+.submit-btn-box .sing-btn a{
+
+  background: var(--btn-color);
+
+} 
+
+
+
+.submit-btn-box .sing-btn a:hover{
+
+  background: var(--background);
+
+}
+
+.account-wrapper {
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.479)), url(../images/form-img.png);
+
+  background-position: center;
+
+  background-size: cover;
+
+}
+
+
+
+.account-title .head_bg_round {
+
+  border: 3px solid #72777b;
+
+}
+
+.forgotpasswordbtn {
+  color: #fff;
+}
+.forgotpasswordbtn:hover{
+  color: #ccc !important;
+}

@@ -1,0 +1,570 @@
+.about-wrapper {
+
+    background: linear-gradient(to right, rgb(15 32 39 / 66%), rgb(32 58 67 / 66%), rgb(44 83 100 / 72%));
+
+}
+
+
+
+.about-img img {
+
+    width: 420px;
+
+    height: 470px;
+
+    object-fit: cover;
+
+}
+
+
+
+.about-content {
+
+    display: flex;
+
+    margin-top: 115px;
+
+}
+
+
+
+.about-information-main {
+
+  padding: 40px;
+
+  /* background: #fff; */
+
+  box-shadow: 0 5px 15px rgb(0 0 0 / 20%);
+
+  margin-left: -70px;
+
+  background: linear-gradient(to right, rgb(156 53 148 / 83%), rgb(111 30 96 / 82%), rgb(52 1 29 / 74%));
+
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+
+}
+
+
+
+
+
+
+
+.about-text-box p {
+
+    font-size: 15px;
+
+    line-height: 20px;
+
+    color: #fff;
+
+    margin: 15px 0;
+
+}
+
+.about-text-box p:first-child{
+
+    margin-top: 0;
+
+}
+
+
+
+.about-title h3 {
+
+    font-size: 28px;
+
+    line-height: 30px;
+
+    color: #fff;
+
+}
+
+
+
+.about-title-box{
+
+    display: none;
+
+}
+
+.about-wrapper-box{
+
+    padding-top: 120px;
+
+}
+
+/* sponsor css */
+
+.sponsor-listing{
+
+    margin: 20px 0;
+
+    margin-left: 30px;
+
+}
+
+.sponsor-listing ul li{
+
+    font-size: 15px;
+
+    color: var(--text-color);
+
+    margin-bottom: 5pxs;
+
+
+
+}
+
+.sponsor-text p{
+
+    font-size: 15px;
+
+    line-height: 20px;
+
+    color: #fff;
+
+    margin: 15px 0;
+
+}
+
+.sponsor-text p span{
+
+    font-style: italic;
+
+}
+
+.sponsor-img-box img{
+
+    width: 100%;
+
+}
+
+/* sdsadsa */
+
+
+
+.whoare-mission-content {
+
+    padding-top: 60px;
+
+}
+
+
+
+.title-box {
+
+    text-align: center;
+
+    font-weight: 600;
+
+    line-height: 30px;
+
+    font-size: 28px;
+
+    position: relative;
+
+}
+
+
+
+.head_bg_blue {
+
+    background: #37021f;
+
+    height: 2px;
+
+    width: 100px;
+
+    text-align: center;
+
+    margin: 0px auto;
+
+}
+
+
+
+.head_bg_round {
+
+    background: #9b3493;
+
+    padding: 1px;
+
+    border: 3px solid #fff;
+
+    width: 20px;
+
+    bottom: 3px;
+
+    left: -3px;
+
+    position: relative;
+
+}
+
+
+
+
+
+.mission-icon svg {
+
+    margin: auto;
+
+    display: block;
+
+    margin-bottom: 8px;
+
+}
+
+
+
+.mission-title {
+
+    margin-bottom: 10px;
+
+}
+
+
+
+.mission-title h4 {
+
+    font-size: 22px;
+
+    line-height: 40px;
+
+    color: var(--commoa-text-color);
+
+    text-align: center;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+.mission-title p {
+    font-size: 15px;
+    line-height: 20px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 100%;
+    height: 100px;
+    margin: 0 auto;
+    -webkit-box-orient: vertical;
+  }
+
+
+
+.mission-btn {
+
+    text-align: center;
+
+}
+
+
+
+
+
+.our-mission-card{
+
+    padding: 40px;
+
+    background: #eee;
+
+    box-shadow: 0 5px 15px rgb(0 0 0 / 20%);
+
+    height: 360px;
+
+}
+
+
+
+.banner-btn-box {
+
+    margin-top: 30px;
+
+}
+
+
+
+h3.covers-title {
+
+    text-align: left;
+
+}
+
+.covers-title .head_bg_blue{
+
+    margin: unset;
+
+    text-align: left;
+
+}
+
+.covers-listing-box .covers-listng{
+
+    margin: 20px 0;
+
+}
+
+.covers-listing-box .covers-listng li{
+    display: flex;
+}
+
+
+
+.covers-listing-box .covers-listng li span{
+
+    font-size: 15px;
+
+}
+
+.covers-listing-box .covers-listng li svg{
+
+    fill: #9b3493;
+
+}
+
+/* .covers-listing-box{
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 20px;
+
+
+
+} */
+
+.covers-title-box .title-box{
+
+    font-size: 20px;
+
+}
+
+
+
+
+
+/* slider css */
+
+.latest-slider-box {
+
+    margin-top: 40px;
+
+}
+
+
+
+.latest-slider-box .owl-nav button {
+
+    position: absolute;
+
+    top: 50%;
+
+    background-color: #000;
+
+    color: #fff;
+
+    margin: 0;
+
+    transition: all 0.3s ease-in-out;
+
+}
+
+
+
+.latest-slider-box .owl-nav button.owl-prev {
+
+    left: 0;
+
+}
+
+
+
+.latest-slider-box .owl-nav {
+
+    display: none;
+
+}
+
+
+
+.latest-slider-box .owl-nav button.owl-next {
+
+    right: 0;
+
+}
+
+
+
+.latest-slider-box .owl-dots {
+
+    text-align: center;
+
+    padding-top: 15px;
+
+}
+
+
+
+.latest-slider-box .owl-dots button.owl-dot {
+
+    width: 15px;
+
+    height: 15px;
+
+    border-radius: 50%;
+
+    display: inline-block;
+
+    background: #36011e;
+
+    margin: 0 3px;
+
+}
+
+
+
+.latest-slider-box .owl-dots button.owl-dot.active {
+
+    background-color: #9b3493;
+
+}
+
+
+
+.latest-slider-box .owl-dots button.owl-dot:focus {
+
+    outline: none;
+
+}
+
+
+
+.latest-slider-box .owl-nav button {
+
+    position: absolute;
+
+    top: 44%;
+
+    transform: translateY(-50%);
+
+}
+
+
+
+.latest-slider-box span {
+
+    font-size: 70px;
+
+    position: relative;
+
+    top: -5px;
+
+    color: #fff;
+
+}
+
+
+
+.latest-slider-box .owl-nav button:focus {
+
+    outline: none;
+
+}
+
+
+
+.latest-card-box {
+
+    padding: 40px;
+
+    background: #9d3595e0;
+
+    color: #fff;
+
+    box-shadow: 5px 5px 13px rgb(97 23 80);
+
+    border-radius: 8px;
+
+}
+
+
+
+.latest-slider-content-box {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+    padding: 25px;
+
+}
+
+
+
+.latest-btn-box {
+
+    margin-top: 35px;
+
+    text-align: center;
+
+}
+
+
+
+.latest-text-box p:before {
+
+    content: "";
+
+    background: url(../images/quote.svg);
+
+    width: 60px;
+
+    height: 60px;
+
+    position: absolute;
+
+    background-repeat: no-repeat;
+
+    z-index: -1;
+
+    background-size: cover;
+
+    top: 10px;
+
+    left: 20px;
+
+
+
+}
+
+
+
+.latest-icon img {
+
+    width: 40px !important;
+
+}
+
+
+
+.owl-carousel .owl-stage-outer {
+
+    height: unset;
+
+}
+
+.latest-news-wrapper{
+
+    padding-bottom: 60px;
+
+}

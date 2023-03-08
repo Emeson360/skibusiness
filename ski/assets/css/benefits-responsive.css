@@ -1,0 +1,60 @@
+@media (max-width: 991px){
+    .latest-card-box{
+        padding: 30px;
+    }
+    .about-content{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .about-information-main{
+        margin: 0;
+    }
+    .f_about_us ul {
+        margin: 10px 0;
+    }    
+    .f_about_us li{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 767px){
+    .about-content{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .about-img img{
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+    .about-information-main{
+        padding: 30px;
+        margin: 0;
+    }
+    .benefit-listing ul{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .latest-slider-content-box{
+        flex-direction: column;
+        padding: 16px;
+    }
+    .about-wrapper-box{
+        padding-top: 30px;
+    }
+    .f_about_us ul:first-child {
+        margin-top: 30px;
+    }
+    .works-wrapper-box {
+        padding-top: 30px;
+    }
+    .works-wrapper-box .tabs-left{
+        border-right: 0;
+        border-bottom: 1px solid #ddd;
+    }
+    .works-wrapper-box .tabs-left>li:last-child {
+        margin-bottom: 10px;
+    }
+    .latest-slider-box {
+        margin-top: 10px;
+    }
+}

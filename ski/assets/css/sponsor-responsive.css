@@ -1,0 +1,150 @@
+@media (max-width: 1199px){
+
+    .our-mission-card {
+
+        height: 410px;
+
+    }
+
+}
+
+
+
+@media (max-width:991px){
+
+    .about-content {
+
+        display: block;
+
+    }
+
+    .about-information-main {
+
+        padding-top: 30px;
+
+        box-shadow: unset;
+
+        margin-left: unset;
+
+        height: unset;
+
+        display: flex;
+
+        flex-direction: column;
+
+        justify-content: center;
+
+    }
+
+    .about-img img{
+
+        width: 100%;
+
+    }
+
+    .our-mission-card {
+
+        margin-bottom: 30px;
+
+        height: unset;
+
+    }
+
+    .mission-title p{
+
+        text-align: center;
+
+    }
+
+    .covers-listing-box{
+
+        display: block;
+
+    }
+
+    .covers-listing-box .covers-listng{
+
+        margin-bottom: 0;
+
+    }
+
+    .covers-listing-box .covers-listng:last-child{
+
+        margin-top: 0;
+
+    }
+
+}
+
+@media (max-width: 767px){
+
+    .our-mission-card {
+
+        margin-bottom: 20px;
+
+        box-shadow: unset;
+
+    }
+
+    .covers-listing-box{
+
+        display: block;
+
+    }
+
+    .covers-content-box{
+
+        margin-top: 20px;
+
+    }
+
+    .latest-slider-content-box{
+
+        flex-direction: column;
+
+        padding: 16px;
+
+    }
+
+    .latest-slider-box {
+
+        margin-top: 10px;
+
+    }.covers-title-box .title-box {
+
+        font-size: 16px;
+
+    }
+.about-list-wrapper-box{
+    padding-top: 0;
+}
+
+   .who-we-are-wrapper {
+
+    padding-bottom: 10px;
+    padding-top: 10PX;
+
+   }
+   .whoare-mission-content{
+    padding-top: 30PX;
+   }
+
+   .latest-news-wrapper{
+
+    margin-top: 30px;
+
+   }
+
+   .about-content{
+
+    margin: 0;
+
+   }
+
+   .about-wrapper-box{
+
+    padding-top: 30px;
+
+}
+
+}

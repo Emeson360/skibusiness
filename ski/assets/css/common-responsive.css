@@ -1,0 +1,430 @@
+@media (max-width: 1199px) {
+
+    .header-logo-box a img {
+
+        max-width: 180px;
+
+        object-fit: contain;
+
+        height: 80px;
+
+    }
+
+    .footer-emil-box svg {
+
+        display: inline-block;
+
+        width: 20px;
+
+    }
+
+    .footer-emil-box span {
+
+        display: inline-block;
+
+        width: 0;
+
+    }
+
+}
+
+
+
+@media (max-width: 991px) {
+
+    .nav-manulist .manu-list ul.listing-box {
+
+        gap: 5px;
+
+    }
+
+
+
+    .nav-manulist .manu-list ul li a {
+
+        font-size: 12px;
+
+    }
+
+
+
+    .nav-manulist .manu-btn-box a {
+
+        padding: 8px;
+
+        font-size: 12px;
+
+    }
+
+
+
+    .navigation {
+
+        gap: 10px;
+
+        padding: 10px;
+
+    }
+
+
+
+    .header-logo-box a img {
+
+        max-width: 160px;
+
+        object-fit: contain;
+
+        height: 50px;
+
+    }
+
+
+
+}
+
+
+
+@media (max-width: 767px) {
+
+    .homeburger-manu {
+
+        display: block;
+
+
+
+    }
+
+
+
+    .navigation {
+
+        display: block;
+
+    }
+
+
+
+    .nav-manulist .manu-list ul.listing-box {
+
+        padding: 0 40px;
+
+
+
+    }
+
+
+
+    .nav-manulist {
+
+        position: relative;
+
+    }
+
+
+
+    .nav-manulist .manu-list ul.listing-box {
+
+        display: none;
+
+        position: absolute;
+
+        top: 0px;
+
+        background: var(--background);
+
+        width: 100%;
+
+        left: 0px;
+
+        z-index: 99;
+
+    }
+
+
+
+    .nav-manulist .manu-list ul.listing-box li {
+
+        border-bottom: 1px solid #dddddd73;
+
+        padding: 10px 0;
+
+    }
+
+
+
+    .nav-manulist .manu-list ul.listing-box li:last-child {
+
+        border: 0;
+
+    }
+
+
+
+    .nav-manulist .manu-list ul.listing-box li a {
+
+        color: #fff;
+
+    }
+
+
+
+    .nav-manulist .manu-list ul.listing-box li svg {
+
+        fill: #fff;
+
+    }
+
+
+
+    .nav-manulist .manu-list ul.abourt-list li a {
+
+        color: #000;
+
+    }
+
+
+
+    .header-content {
+
+        display: block;
+
+    }
+
+
+
+    .manu-btn-box {
+
+
+
+        display: block;
+
+        margin-top: 40px;
+
+        text-align: center;
+
+        margin-bottom: 22px;
+
+
+
+    }
+
+
+
+    .header-logo-box {
+
+        display: flex;
+
+        align-items: center;
+
+        justify-content: space-between;
+
+    }
+
+
+
+    .nav-manulist .manu-btn-box a {
+
+        padding: 15px;
+
+        font-size: 14px;
+
+    }
+
+
+
+    .nav-manulist .listing-box li.about-main:hover ul.abourt-list {
+
+        opacity: unset;
+
+        display: block;
+
+    }
+
+
+
+    .nav-manulist ul.abourt-list {
+
+        display: none;
+
+        opacity: unset;
+
+        position: unset;
+
+    }
+
+
+
+    .banner-wrapper-box .carousel-inner .carousel-item {
+
+        padding: 70px 0;
+
+        height: 350px;
+
+    }
+
+
+
+    .banner-slider-box h1 {
+
+        font-size: 26px;
+
+    }
+
+
+
+    .banner-text-box {
+
+        font-size: 14px;
+
+    }
+
+
+
+    .our-gaping {
+
+        padding: 30px 0;
+
+    }
+
+
+
+    #footer h3 {
+
+        font-size: 26px;
+
+        margin-top: 20px;
+        line-height: 10px;
+
+    }
+
+
+
+    .footer-sub-sec {
+
+        flex-direction: column;
+
+        gap: 10px;
+
+        margin-top: 25px;
+
+    }
+
+
+
+    .header-main-box {
+
+        padding: 0;
+
+    }
+
+
+
+    .navigation {
+
+        position: unset;
+
+        width: 100%;
+
+        margin: 0;
+
+        box-shadow: unset;
+
+    }
+
+    .our-gaping {
+
+        padding: 30px 0;
+
+    }
+
+
+
+
+
+}
+
+.head_bg_round1 {
+
+    border: 3px solid #922f89 !important;
+}
+
+
+@media (max-width: 575px) {}
+
+
+
+@media (max-width: 475px) {
+
+    .nav-manulist-box .contact-box {
+
+        gap: 10px;
+
+        flex-direction: column;
+
+        margin-top: 10px;
+
+    }
+
+
+
+    .header-logo-box a h1 {
+
+        font-size: 36px;
+
+    }
+
+
+
+    .footer-img a h1 {
+
+        font-size: 36px;
+
+    }
+
+
+
+    .nav-numbar a {
+
+        display: flex;
+
+        gap: 10px;
+
+        font-size: 12px;
+
+        align-items: center;
+
+    }
+
+
+
+    .footer-emil-box svg {
+
+        display: inline-block;
+
+        width: 20px;
+
+    }
+
+    .footer-emil-box span {
+
+        display: inline-block;
+
+        width: 0;
+
+        font-size: 14px;
+
+    }
+
+}
+
+@media (max-width: 320px) {
+
+    .footer-emil-box span {
+
+
+
+        font-size: 12px;
+
+    }
+
+}

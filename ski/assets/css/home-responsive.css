@@ -1,0 +1,205 @@
+@media (max-width: 1655px){
+    .banner-wrapper-box .carousel-inner .carousel-item {
+        padding: 125px 0;
+        min-height: 560px;
+    }
+}
+
+@media (max-width: 1365px){
+    .banner-wrapper-box .carousel-control-prev {
+        left: 33px;
+    }
+    .banner-wrapper-box .carousel-control-next{
+        right: 33px;
+    }
+    .banner-wrapper-box .carousel-inner .carousel-item {
+        padding: 125px 0;
+        min-height: 500px;
+    }
+}
+
+@media (max-width: 1199px) {
+
+    /* .banner-wrp-main{
+        width: 80%;
+        margin: auto;
+    } */
+    .banner-wrapper-box .carousel-control-prev {
+        left: 30px;
+    }
+    .banner-wrapper-box .carousel-control-next{
+        right: 30px;
+    }
+
+    .banner-wrapper-box .carousel-inner .carousel-item {
+        padding: 125px 0;
+        min-height: 405px;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .banner-wrp-main {
+        width: 93%;
+        margin: auto;
+    }
+
+    .banner-wrapper-box .carousel-inner .carousel-item {
+        padding: 95px 0;
+    }
+
+    .our-mission-card {
+        margin-bottom: 30px;
+    }
+
+    .sponsorship-content {
+        margin-top: 35px;
+    }
+
+    .about-content {
+        display: block;
+    }
+
+    .about-information-main {
+        padding: 0;
+        padding-top: 30px;
+        background: unset;
+        box-shadow: unset;
+        margin-left: unset;
+        background: unset;
+        height: unset;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .about-img img {
+        width: 100%;
+        height: 350px;
+    }
+
+    #vueBind {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .banner-wrapper-box .carousel-control-prev {
+        left: unset;
+    }
+    .banner-wrapper-box .carousel-control-next{
+        right: 0;
+    }
+    .account-content-box{
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px) {
+    .banner-wrapper-box .carousel-inner .carousel-item {
+        padding: 105px 0;
+        height: unset;
+        background-size: cover;
+    }
+  
+    .banner-slider-box h1 {
+        font-size: 26px;
+    }
+
+    .banner-text-box {
+        font-size: 14px;
+    }
+
+    .banner-wrp-main {
+        width: 100%;
+        text-align: center;
+        margin: auto;
+    }
+
+    .whoare-mission-content {
+        padding-top: 30px;
+    }
+
+    .our-mission-card {
+        margin-bottom: 20px;
+        box-shadow: unset;
+    }
+
+    .sponsorship-content {
+        margin-top: 25px;
+    }
+
+    .about-content {
+        display: block;
+    }
+
+    .about-information-main {
+        padding: 0;
+        padding-top: 30px;
+        background: unset;
+        box-shadow: unset;
+        margin-left: unset;
+        background: unset;
+        height: unset;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .about-img img {
+        width: 100%;
+        height: 350px;
+    }
+
+    #vueBind {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .banner-wrp-main {
+        width: 80%;
+    }
+
+    .sponsorship-content h4 {
+        font-size: 22px;
+    }
+    .banner-wrp-main {
+        width: 80%;
+    }
+
+    .sponsorship-content h4 {
+        font-size: 22px;
+    }
+    .banner-wrapper-box .carousel-inner .carousel-item{
+        min-height: 220px;
+    }
+   
+}
+
+@media (max-width: 575px) {
+  
+  
+}
+@media (max-width: 480px){
+    .input-box {
+        width: 100%;
+    }
+    .name-box{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+    .emil-box{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+    .textarea-box{
+        width: 100%;
+    }
+}
+@media (max-width: 375px){
+    .banner-btn-box a{
+        width: 100%;
+        display: block;
+    }
+    .submit-btn-box{
+        flex-direction: column;
+        gap: 35px;
+    }
+}
