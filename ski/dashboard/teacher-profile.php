@@ -18,7 +18,7 @@ $uid = $_GET['uid'];
 <!-- BEGIN HEAD -->
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/staff_profile.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:51 GMT -->
+<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/staff_profile.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:51 GMT -->
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -57,7 +57,7 @@ $uid = $_GET['uid'];
 			<div class="page-header-inner ">
 				<!-- logo start -->
 				<div class="page-logo">
-					<a href="index.html">
+					<a href="index.php">
 						<span class="logo-icon material-icons fa-rotate-45">school</span>
 						<span class="logo-default">Smart</span> </a>
 				</div>
@@ -274,7 +274,7 @@ $uid = $_GET['uid'];
 							</a>
 							<ul class="dropdown-menu dropdown-menu-default">
 								<li>
-									<a href="user_profile.html">
+									<a href="user_profile.php">
 										<i class="icon-user"></i> Profile </a>
 								</li>
 								<li>
@@ -289,12 +289,12 @@ $uid = $_GET['uid'];
 								</li>
 								<li class="divider"> </li>
 								<li>
-									<a href="lock_screen.html">
+									<a href="lock_screen.php">
 										<i class="icon-lock"></i> Lock
 									</a>
 								</li>
 								<li>
-									<a href="login.html">
+									<a href="login.php">
 										<i class="icon-logout"></i> Log Out </a>
 								</li>
 							</ul>
@@ -746,5 +746,5 @@ $uid = $_GET['uid'];
 </body>
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/staff_profile.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:52 GMT -->
+<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/staff_profile.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:52 GMT -->
 </html>

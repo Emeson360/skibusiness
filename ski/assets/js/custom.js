@@ -85,7 +85,7 @@ $(".feq-btn-box").on("click", function () {
 //         $("#login button:submit").removeClass("disabledAnchor");
 //         if (result.status == "true") {
 //           $(".login_message")
-//             .html('<p class="alert alert-success">' + result.msg + "</p>")
+//             .php('<p class="alert alert-success">' + result.msg + "</p>")
 //             .slideDown(1000);
 //           setTimeout(function () {
 //             $(".login_message").slideUp(1000);
@@ -94,7 +94,7 @@ $(".feq-btn-box").on("click", function () {
 //           }, 4000);
 //         } else {
 //           $(".login_message")
-//             .html('<p class="alert alert-danger">' + result.msg + "</p>")
+//             .php('<p class="alert alert-danger">' + result.msg + "</p>")
 //             .slideDown(1000);
 //           $("#loader").hide();
 //           setTimeout(function () {

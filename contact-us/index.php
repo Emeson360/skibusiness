@@ -162,7 +162,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                     <a title="Facebook" href="#"><i class="zmdi zmdi-facebook"></i></a>        <a title="Pinterest" href="#"><i class="zmdi zmdi-pinterest"></i></a>        <a title="Skype" href="#"><i class="zmdi zmdi-skype"></i></a>        <a title="Twitter" href="#"><i class="zmdi zmdi-twitter"></i></a>                                </div>
                             </div>
                             <!--<div class="header-top-right font-smooth">
-                                <ul id="menu-useful-links" class="top-right-menu clearfix"><li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.html">About Us</a></li>
+                                <ul id="menu-useful-links" class="top-right-menu clearfix"><li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.php">About Us</a></li>
 <li id="menu-item-4158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="#">Grains</a></li>
 <li id="menu-item-4160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="#">Pulses</a></li>
 <li id="menu-item-4163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="#">Edible Oils</a></li>
@@ -215,7 +215,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                 <nav class="main-navigation">
                                     <ul id="mastmenu" class="primary-menu clearfix"><li id="menu-item-3838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3838"><a href="../index.php">Home</a></li>
 <li id="menu-item-3839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839"><a href="../about-us/index.php">Our Business Model</a></li>
-<!--<li id="menu-item-3840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840"><a href="../management-team/index.html">Management Team</a></li>-->
+<!--<li id="menu-item-3840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840"><a href="../management-team/index.php">Management Team</a></li>-->
 <li id="menu-item-3851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3851"><a href="#">Our Services</a>
 <ul class="sub-menu">
 	<li id="menu-item-4091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4091"><a style="color:black;" href="#">Export Solutions</a>

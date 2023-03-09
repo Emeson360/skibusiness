@@ -28,7 +28,7 @@
 		<nav class="navigation">
 			<div class="header-content">
 				<div class="header-logo-box">
-					<a href="index.html">
+					<a href="index.php">
 						<img src="assets/images/main-logo.png" alt="">
 					</a>
 					<div class="homeburger-manu" id="header-fa-bar">
@@ -67,10 +67,10 @@
 						<div class="manu-list">
 							<ul class="listing-box">
 								<li>
-									<a href="index.html">Home</a>
+									<a href="index.php">Home</a>
 								</li>
 								<li class="about-main">
-									<a href="about.html">About</a>
+									<a href="about.php">About</a>
 									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="28"
 										fill="#000">
 										<path
@@ -78,12 +78,12 @@
 									</svg>
 									<ul class="abourt-list">
 										<li>
-											<a href="how-nexhub-work.html">
+											<a href="how-nexhub-work.php">
 												How NEXHub Works
 											</a>
 										</li>
 										<li>
-											<a href="subscription.html">
+											<a href="subscription.php">
 												Our Plans
 											</a>
 										</li>
@@ -93,7 +93,7 @@
 									</ul>
 								</li>
 								<li class="about-main">
-									<a href="benefits.html">Benefits</a>
+									<a href="benefits.php">Benefits</a>
 								</li>
 																<li class="about-main">
 									<a href="#" onclick="event.preventDefault();" >Sign In/Sign Up</a>
@@ -110,7 +110,7 @@
 										</li>
 										<li>
 											<a 
-												href="index.html#signup">Sign
+												href="index.php#signup">Sign
 												Up</a>
 										</li>
 									</ul>
@@ -120,7 +120,7 @@
 								</li>
 
 								<span class="manu-btn-box">
-									<a href="sponsor.html">Sponsor/Finance A Project >></a>
+									<a href="sponsor.php">Sponsor/Finance A Project >></a>
 								</span>
 							</ul>
 						</div>
@@ -189,10 +189,10 @@
                             $("#loader").hide();
                             $("#Password_recovery_btn").removeClass("disabled");
                             if (result.status == 'true') {
-                                $('.message').html('<p class="alert alert-success">' +
+                                $('.message').php('<p class="alert alert-success">' +
                                     result.msg + '</p>');
                             } else {
-                                $('.message').html('<p class="alert alert-danger">' + result
+                                $('.message').php('<p class="alert alert-danger">' + result
                                     .msg + '</p>');
                             }
                             $(".message").fadeTo(4000, 500).slideUp(500, function() {
@@ -212,7 +212,7 @@
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="footer-img">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <h1>NEXHub</h1>
                                 </a>
                             </div>
@@ -232,11 +232,11 @@
 
                             <div class="links_warp">
 
-                                <li><a href="benefits.html">Learn how to export</a></li>
-                                <li><a href="benefits.html">Learn what to export</a></li>
-                                <li><a href="benefits.html">Learn where to export</a></li>
-                                <li><a href="benefits.html">Learn to whom to export</a></li>
-                                <li><a href="benefits.html">Get verified off-takers</a></li>
+                                <li><a href="benefits.php">Learn how to export</a></li>
+                                <li><a href="benefits.php">Learn what to export</a></li>
+                                <li><a href="benefits.php">Learn where to export</a></li>
+                                <li><a href="benefits.php">Learn to whom to export</a></li>
+                                <li><a href="benefits.php">Get verified off-takers</a></li>
                                 <!-- <li><a href="benefits">Business Support Benefit</a></li>
                                 <li><a href="benefits">Vehicle Trade-in Benefit</a></li>
                                 <li><a href="benefits">Education Support Benefit</a></li>
@@ -302,7 +302,7 @@
                     </span>
                 </div>
                 <div class="footer-terms">
-                    <p class="second"><a href="terms.html">Terms</a> | <a href="privacy.html">Privacy</a> Powered by - <a
+                    <p class="second"><a href="terms.php">Terms</a> | <a href="privacy.php">Privacy</a> Powered by - <a
                             href="https://ovalgroup.org/" target="_blank">Zeenab Group</a>
                     </p>
                 </div>
@@ -340,7 +340,7 @@
                         </div>
                     </div>
                     <div class="text-center mt-3" >
-                        <a href="forgot-password.html" class="forgotpasswordbtn">
+                        <a href="forgot-password.php" class="forgotpasswordbtn">
                             Forgot password?
                         </a>
                     </div>

@@ -73,7 +73,7 @@ $(function() {
             }, {
                 text: 'Parent 4',
                 icon: 'glyphicon glyphicon-cloud-download',
-                href: '/demo.html',
+                href: '/demo.php',
                 tags: ['19'],
                 selected: true
             }, {
@@ -202,14 +202,14 @@ $(function() {
                 $.each(results, function(index, result) {
                     output += '<p>- ' + result.text + '</p>';
                 });
-                $('#search-output').html(output);
+                $('#search-output').php(output);
             }
             $('#btn-search').on('click', search);
             $('#input-search').on('keyup', search);
             $('#btn-clear-search').on('click', function(e) {
                 $searchableTree.treeview('clearSearch');
                 $('#input-search').val('');
-                $('#search-output').html('');
+                $('#search-output').php('');
             });
             var initSelectableTree = function() {
                 return $('#treeview-selectable').treeview({

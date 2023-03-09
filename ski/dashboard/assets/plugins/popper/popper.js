@@ -34,7 +34,7 @@
     return e instanceof n(e).Element || e instanceof Element;
   }
   function i(e) {
-    return e instanceof n(e).HTMLElement || e instanceof HTMLElement;
+    return e instanceof n(e).phpElement || e instanceof HTMLElement;
   }
   function a(e) {
     return e ? (e.nodeName || "").toLowerCase() : null;

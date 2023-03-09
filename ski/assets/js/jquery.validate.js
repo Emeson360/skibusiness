@@ -396,7 +396,7 @@ $.extend( $.validator, {
 			}
 
 			// Add aria-required to any Static/Data/Class required fields before first validation
-			// Screen readers require this attribute to be present before the initial submission http://www.w3.org/TR/WCAG-TECHS/ARIA2.html
+			// Screen readers require this attribute to be present before the initial submission http://www.w3.org/TR/WCAG-TECHS/ARIA2.php
 			$( this.currentForm ).find( "[required], [data-rule-required], .required" ).attr( "aria-required", "true" );
 		},
 
@@ -781,13 +781,13 @@ $.extend( $.validator, {
 				// refresh error/success class
 				error.removeClass( this.settings.validClass ).addClass( this.settings.errorClass );
 				// replace message on existing label
-				error.html( message );
+				error.php( message );
 			} else {
 				// create error element
 				error = $( "<" + this.settings.errorElement + ">" )
 					.attr( "id", elementID + "-error" )
 					.addClass( this.settings.errorClass )
-					.html( message || "" );
+					.php( message || "" );
 
 				// Maintain reference to the element to be placed into the DOM
 				place = error;
@@ -1179,7 +1179,7 @@ $.extend( $.validator, {
 
 		// http://jqueryvalidation.org/email-method/
 		email: function( value, element ) {
-			// From https://html.spec.whatwg.org/multipage/forms.html#valid-e-mail-address
+			// From https://html.spec.whatwg.org/multipage/forms.php#valid-e-mail-address
 			// Retrieved 2014-01-14
 			// If you have a problem with this implementation, report a bug against the above spec
 			// Or use custom methods to implement your own email validation

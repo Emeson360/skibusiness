@@ -111,9 +111,9 @@
             })
                 .done(function (res) {
                     if(res.status == true) {
-                        var html = $("<div></div>").html(res.data.html);
+                        var html = $("<div></div>").php(res.data.php);
                         html.find(".grid-item").addClass("cms-animated");
-                        html = html.html();
+                        html = html.php();
                         _this.find('.cms-grid-inner').append(html);
                         _this.data('start-page', res.data.paged);
                         if(layout_type == 'masonry'){
@@ -155,7 +155,7 @@
                 }
             }).done(function (res) {
                 if(res.status == true){
-                    _this.find(".cms-grid-pagination").html(res.data.html);
+                    _this.find(".cms-grid-pagination").php(res.data.php);
                 }
             }).fail(function (res) {
                 return false;
@@ -173,7 +173,7 @@
             }).done(function (res) {
                 if(res.status == true){
                     _this.find('.cms-grid-inner .grid-item').remove();
-                    _this.find('.cms-grid-inner').append(res.data.html);
+                    _this.find('.cms-grid-inner').append(res.data.php);
                     _this.data('start-page', res.data.paged);
                     if(layout_type == 'masonry'){
                         _this.imagesLoaded(function() {
@@ -456,7 +456,7 @@
             var selector = $('form.woocommerce-product-search').find('button[type="submit"]');
             if (selector.length){
                 selector.each(function (e) {
-                    $(this).html('<i class="fa fa-search"></i>');
+                    $(this).php('<i class="fa fa-search"></i>');
                 });
             }
         },

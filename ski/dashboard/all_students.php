@@ -124,7 +124,7 @@ $sch_name = $_SESSION['name'];
 			<div class="page-header-inner ">
 				<!-- logo start -->
 				<div class="page-logo">
-					<a href="index.html">
+					<a href="index.php">
 						<span class="logo-icon material-icons fa-rotate-45">school</span>
 						<span class="logo-default">Smart</span> </a>
 				</div>
@@ -341,7 +341,7 @@ $sch_name = $_SESSION['name'];
 							</a>-->
 							<!--<ul class="dropdown-menu dropdown-menu-default">
 								<li>
-									<a href="user_profile.html">
+									<a href="user_profile.php">
 										<i class="icon-user"></i> Profile </a>
 								</li>
 								<li>
@@ -356,12 +356,12 @@ $sch_name = $_SESSION['name'];
 								</li>
 								<li class="divider"> </li>
 								<li>
-									<a href="lock_screen.html">
+									<a href="lock_screen.php">
 										<i class="icon-lock"></i> Lock
 									</a>
 								</li>
 								<li>
-									<a href="login.html">
+									<a href="login.php">
 										<i class="icon-logout"></i> Log Out </a>
 								</li>
 							</ul>
@@ -607,11 +607,11 @@ $sch_name = $_SESSION['name'];
 //   },
 //   function(data, status){
 //     //alert("Data: " + data + "\nStatus: " + status);
-//     $('#res').html(data);
+//     $('#res').php(data);
 //   });
 //   }
    $.get( "php/inc-all-students_filter.php", function( data ) {
-     $( "#res" ).html( data );
+     $( "#res" ).php( data );
    });
       
 //     function fstudent_2(value)
@@ -623,11 +623,11 @@ $sch_name = $_SESSION['name'];
 //   },
 //   function(data, status){
 //     //alert("Data: " + data + "\nStatus: " + status);
-//     $('#res1').html(data);
+//     $('#res1').php(data);
 //   });
 //   }
     $.get( "php/inc-all-students_filter_2.php", function( data ) {
-     $( "#res1" ).html( data );
+     $( "#res1" ).php( data );
    });
       $(document).ready(function(){
   $("#myInput").on("keyup", function() {
@@ -650,5 +650,5 @@ $sch_name = $_SESSION['name'];
 </body>
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
+<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
 </html>

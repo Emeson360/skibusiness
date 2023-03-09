@@ -5,9 +5,9 @@
  *
  **/
 var Layout = (function () {
-  var layoutImgPath = "img/index.html";
+  var layoutImgPath = "img/index.php";
 
-  var layoutCssPath = "css/index.html";
+  var layoutCssPath = "css/index.php";
 
   var resBreakpointMd = App.getResponsiveBreakpoint("md");
 
@@ -655,13 +655,13 @@ var Layout = (function () {
             $(".sidemenu > li.open > a").click();
           }
 
-          pageContent.html(res);
+          pageContent.php(res);
           Layout.fixContentHeight(); // fix content height
           App.initAjax(); // initialize core stuff
         },
         error: function (res, ajaxOptions, thrownError) {
           App.stopPageLoading();
-          pageContent.html("<h4>Could not load the requested content.</h4>");
+          pageContent.php("<h4>Could not load the requested content.</h4>");
 
           for (var i = 0; i < ajaxContentErrorCallbacks.length; i++) {
             ajaxContentSuccessCallbacks[i].call(res);

@@ -606,7 +606,7 @@ unset($_SESSION['signup-data']);
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="footer-img">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <h1>E-ExportHub</h1>
                                 </a>
                             </div>
@@ -626,11 +626,11 @@ unset($_SESSION['signup-data']);
 
                             <div class="links_warp">
 
-                                <li><a href="benefits.html">Learn how to export</a></li>
-                                <li><a href="benefits.html">Learn what to export</a></li>
-                                <li><a href="benefits.html">Learn where to export</a></li>
-                                <li><a href="benefits.html">Learn to whom to export</a></li>
-                                <li><a href="benefits.html">Get verified off-takers</a></li>-->
+                                <li><a href="benefits.php">Learn how to export</a></li>
+                                <li><a href="benefits.php">Learn what to export</a></li>
+                                <li><a href="benefits.php">Learn where to export</a></li>
+                                <li><a href="benefits.php">Learn to whom to export</a></li>
+                                <li><a href="benefits.php">Get verified off-takers</a></li>-->
                                 <!-- <li><a href="benefits">Business Support Benefit</a></li>
                                 <li><a href="benefits">Vehicle Trade-in Benefit</a></li>
                                 <li><a href="benefits">Education Support Benefit</a></li>

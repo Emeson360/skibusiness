@@ -9,7 +9,7 @@ $sch_name = $_SESSION['name'];
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from adminlte.io/themes/v3/pages/tables/data.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jan 2023 05:37:43 GMT -->
+<!-- Mirrored from adminlte.io/themes/v3/pages/tables/data.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jan 2023 05:37:43 GMT -->
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -128,7 +128,7 @@ $sch_name = $_SESSION['name'];
 <script src="plugins/jszip/jszip.min.js"></script>
 <script src="plugins/pdfmake/pdfmake.min.js"></script>
 <script src="plugins/pdfmake/vfs_fonts.js"></script>
-<script src="plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+<script src="plugins/datatables-buttons/js/buttons.php5.min.js"></script>
 <script src="plugins/datatables-buttons/js/buttons.print.min.js"></script>
 <script src="plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
 
@@ -152,7 +152,7 @@ $sch_name = $_SESSION['name'];
     });
     
      $.get( "php/test.php", function( data ) {
-     $( "#res" ).html( data );
+     $( "#res" ).php( data );
    });
    $(document).ready(function(){
   $("#myInput").on("keyup", function() {
@@ -170,5 +170,5 @@ $sch_name = $_SESSION['name'];
 </script>
 </body>
 
-<!-- Mirrored from adminlte.io/themes/v3/pages/tables/data.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jan 2023 05:38:24 GMT -->
+<!-- Mirrored from adminlte.io/themes/v3/pages/tables/data.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jan 2023 05:38:24 GMT -->
 </html>

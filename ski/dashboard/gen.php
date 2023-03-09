@@ -13,7 +13,7 @@ $sch_name = $_SESSION['name'];
 <!-- BEGIN HEAD -->
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
+<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -60,7 +60,7 @@ $sch_name = $_SESSION['name'];
 			<div class="page-header-inner ">
 				<!-- logo start -->
 				<div class="page-logo">
-					<a href="index.html">
+					<a href="index.php">
 						<span class="logo-icon material-icons fa-rotate-45">school</span>
 						<span class="logo-default">Smart</span> </a>
 				</div>
@@ -277,7 +277,7 @@ $sch_name = $_SESSION['name'];
 							</a>-->
 							<!--<ul class="dropdown-menu dropdown-menu-default">
 								<li>
-									<a href="user_profile.html">
+									<a href="user_profile.php">
 										<i class="icon-user"></i> Profile </a>
 								</li>
 								<li>
@@ -292,12 +292,12 @@ $sch_name = $_SESSION['name'];
 								</li>
 								<li class="divider"> </li>
 								<li>
-									<a href="lock_screen.html">
+									<a href="lock_screen.php">
 										<i class="icon-lock"></i> Lock
 									</a>
 								</li>
 								<li>
-									<a href="login.html">
+									<a href="login.php">
 										<i class="icon-logout"></i> Log Out </a>
 								</li>
 							</ul>
@@ -429,7 +429,7 @@ $sch_name = $_SESSION['name'];
 							</div>
 							<ol class="breadcrumb page-breadcrumb pull-right">
 								<li><i class="fa fa-home"></i>&nbsp;<a class="parent-item"
-										href="index.html">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
+										href="index.php">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
 								</li>
 								<li><a class="parent-item" href="#">Admission</a>&nbsp;<i class="fa fa-angle-right"></i>
 								</li>
@@ -843,5 +843,5 @@ $sch_name = $_SESSION['name'];
 </body>
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
+<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
 </html>

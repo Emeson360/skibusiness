@@ -3169,7 +3169,7 @@ var define, require, esl;
                     clickable: this.legendOption.selectedMode
                 };
             if (o.match("image")) {
-                var s = o.replace(new RegExp("%5eimage_.html\\/\\/"), "");
+                var s = o.replace(new RegExp("%5eimage_.php\\/\\/"), "");
                 o = "image"
             }
             switch (o) {
@@ -3929,7 +3929,7 @@ var define, require, esl;
                 e.rect(n + 2, a, h, s), e.rect(n + r - h - 2, a, h, s)
             } else if (l.match("image")) {
             var d = "";
-            d = l.replace(new RegExp("%5eimage_.html\\/\\/"), ""), l = o.prototype.iconLibrary.image, l(e, {
+            d = l.replace(new RegExp("%5eimage_.php\\/\\/"), ""), l = o.prototype.iconLibrary.image, l(e, {
                 x: n,
                 y: a,
                 width: r,
@@ -8466,7 +8466,7 @@ var define, require, esl;
                     },
                     clickable: this.deepQuery(u, "clickable")
                 });
-            return h.match("image") && (w.style.image = h.replace(new RegExp("%5eimage_.html\\/\\/"), ""), w = new n({
+            return h.match("image") && (w.style.image = h.replace(new RegExp("%5eimage_.php\\/\\/"), ""), w = new n({
                 style: w.style,
                 highlightStyle: w.highlightStyle,
                 clickable: this.deepQuery(u, "clickable")

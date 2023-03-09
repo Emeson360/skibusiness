@@ -177,7 +177,7 @@ h4.vew-mail-header b {
   content: " ";
   width: 7px;
   height: 9px;
-  background: url(images/arrow-down.html);
+  background: url(images/arrow-down.php);
   position: absolute;
   right: 10px;
   top: 0;
@@ -865,7 +865,7 @@ span.online-status {
   background-repeat: no-repeat !important;
   text-indent: -10000px;
   outline: 0;
-  background-image: url(../img/remove-icon-small.html) !important;
+  background-image: url(../img/remove-icon-small.php) !important;
 }
 .help-block {
   margin-top: 5px;

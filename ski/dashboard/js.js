@@ -13,12 +13,12 @@ $(document).ready(function (e) {
           cache: false,             // To unable request pages to be cached
           processData:false,        // To send DOMDocument or non processed data file it is set to false<img src='icon.gif' style='width:90px; height:90px;'>
           beforeSend: function() {
-              $('#feedback').html("Sending Request...");
+              $('#feedback').php("Sending Request...");
             },
           success: function(data)   // A function to be called if request succeeds
           {
             //alert("hello");
-          $("#feedback").html(data);
+          $("#feedback").php(data);
           
           }
           });
@@ -39,12 +39,12 @@ $(document).ready(function (e) {
 
 
 $.get( "php/inc-all-students_filter.php", function( data ) {
-     $( "#res" ).html( data );
+     $( "#res" ).php( data );
    });
 
 
 $.get( "inc_result.php", function( data ) {
-     $( "#res" ).html( data );
+     $( "#res" ).php( data );
    });
 
    function filter(value)
@@ -55,7 +55,7 @@ $.get( "inc_result.php", function( data ) {
   },
   function(data, status){
     //alert("Data: " + data + "\nStatus: " + status);
-    $('#res').html(data);
+    $('#res').php(data);
   });
    }
    
@@ -68,7 +68,7 @@ $.get( "inc_result.php", function( data ) {
 //   },
 //   function(data, status){
 //     //alert("Data: " + data + "\nStatus: " + status);
-//     $('#res').html(data);
+//     $('#res').php(data);
 //   });
    }
    
@@ -153,7 +153,7 @@ $.get( "inc_result.php", function( data ) {
 //     request.done(function (response, textStatus, jqXHR){
 //         // Log a message to the console
 //         console.log("Hooray, it worked!");
-//         $("#res_filter").html(response.t);
+//         $("#res_filter").php(response.t);
 //     });
 
 //     // Callback handler that will be called on failure

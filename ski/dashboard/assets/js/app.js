@@ -14,11 +14,11 @@ var App = (function () {
 
   var assetsPath = "";
 
-  var globalImgPath = "img/index.html";
+  var globalImgPath = "img/index.php";
 
-  var globalPluginsPath = "global/plugins/index.html";
+  var globalPluginsPath = "global/plugins/index.php";
 
-  var globalCssPath = "css/index.html";
+  var globalCssPath = "css/index.php";
 
   /************* Setting for IE ****************/
   var handleInit = function () {
@@ -52,7 +52,7 @@ var App = (function () {
       "click",
       ".language-switch .dropdown-menu li a",
       function () {
-        $(".language-switch>a").html($(this).html());
+        $(".language-switch>a").php($(this).php());
         $(".language-switch>a img").addClass("position-left");
       }
     );
@@ -284,7 +284,7 @@ var App = (function () {
     }
 
     if ($(".page-footer > .container").length === 1) {
-      $(".page-footer").html($(".page-footer > .container").html());
+      $(".page-footer").php($(".page-footer > .container").php());
     } else if ($(".page-footer").parent(".container").length === 1) {
       $(".page-footer").insertAfter(".page-container");
       $(".scroll-to-top").insertAfter(".page-footer");

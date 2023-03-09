@@ -55,7 +55,7 @@
 																	<td> <?php  echo $row['s_nvl']; ?> </td>
 																	<td> <?php  echo $row['s_cca']; ?> </td>
                            <td>
-					<a href="edit_staff.html" class="tblEditBtn">
+					<a href="edit_staff.php" class="tblEditBtn">
 					<i class="fa fa-pencil"></i>
 					</a>
 						<a class="tblDelBtn">

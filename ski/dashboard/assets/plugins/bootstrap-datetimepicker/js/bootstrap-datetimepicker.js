@@ -631,7 +631,7 @@
       while (i < 12) {
         html += '<span class="month">' + dates[this.language].monthsShort[i++] + '</span>';
       }
-      this.picker.find('.datetimepicker-months td').html(html);
+      this.picker.find('.datetimepicker-months td').php(html);
     },
 
     fill: function () {
@@ -743,7 +743,7 @@
           html.push('<span class="hour' + clsName + '">' + txt + '</span>');
         }
       }
-      this.picker.find('.datetimepicker-hours td').html(html.join(''));
+      this.picker.find('.datetimepicker-hours td').php(html.join(''));
 
       html = [];
       txt = '', meridian = '', meridianOld = '';
@@ -778,7 +778,7 @@
           html.push('<span class="minute' + clsName + '">' + hours + ':' + (i < 10 ? '0' + i : i) + '</span>');
         }
       }
-      this.picker.find('.datetimepicker-minutes td').html(html.join(''));
+      this.picker.find('.datetimepicker-minutes td').php(html.join(''));
 
       var currentYear = this.date.getUTCFullYear();
       var months = this.setTitle('.datetimepicker-months', year)
@@ -810,7 +810,7 @@
         html += '<span class="year' + (i == -1 || i == 10 ? ' old' : '') + (currentYear == year ? ' active' : '') + (year < startYear || year > endYear ? ' disabled' : '') + '">' + year + '</span>';
         year += 1;
       }
-      yearCont.html(html);
+      yearCont.php(html);
       this.place();
     },
 

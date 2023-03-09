@@ -12,7 +12,7 @@ else
 <!-- BEGIN HEAD -->
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
+<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -272,7 +272,7 @@ else
 							</a>-->
 							<!--<ul class="dropdown-menu dropdown-menu-default">
 								<li>
-									<a href="user_profile.html">
+									<a href="user_profile.php">
 										<i class="icon-user"></i> Profile </a>
 								</li>
 								<li>
@@ -287,12 +287,12 @@ else
 								</li>
 								<li class="divider"> </li>
 								<li>
-									<a href="lock_screen.html">
+									<a href="lock_screen.php">
 										<i class="icon-lock"></i> Lock
 									</a>
 								</li>
 								<li>
-									<a href="login.html">
+									<a href="login.php">
 										<i class="icon-logout"></i> Log Out </a>
 								</li>
 							</ul>
@@ -530,10 +530,10 @@ else
 	<script>
 	
 // 	$.get( "inc_result.php", function( data ) {
-//      $( "#reso" ).html( data );
+//      $( "#reso" ).php( data );
 //   });
    	$.get( "inc-result-file2.php", function( data ) {
-     $( "#resfile" ).html( data );
+     $( "#resfile" ).php( data );
    });
    //setTimeout(sayHi, 1000);
 	        $(document).ready(function(){
@@ -556,5 +556,5 @@ else
 </body>
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
+<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/add_student.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:54:38 GMT -->
 </html>

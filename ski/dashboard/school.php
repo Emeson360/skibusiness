@@ -13,7 +13,7 @@ else{$sch_name = $_SESSION['name'];
 <!-- BEGIN HEAD -->
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:51:50 GMT -->
+<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:51:50 GMT -->
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -58,7 +58,7 @@ else{$sch_name = $_SESSION['name'];
 			<div class="page-header-inner ">
 				<!-- logo start -->
 				<div class="page-logo">
-					<a href="index.html">
+					<a href="index.php">
 						<span class="logo-icon material-icons fa-rotate-45">school</span>
 						<span class="logo-default"> Education Portal</span> </a>
 				</div>
@@ -249,7 +249,7 @@ require_once('nav.php');
 							</div>
 							<ol class="breadcrumb page-breadcrumb pull-right">
 								<li><i class="fa fa-home"></i>&nbsp;<a class="parent-item"
-										href="index.html">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
+										href="index.php">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
 								</li>
 								<li class="active">Dashboard</li>
 							</ol>
@@ -372,5 +372,5 @@ require_once('nav.php');
 </body>
 
 
-<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:53:43 GMT -->
+<!-- Mirrored from www.einfosoft.com/templates/admin/smart/source/light/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Aug 2022 04:53:43 GMT -->
 </html>

@@ -1,17 +1,17 @@
 <!doctype html>
 <html lang="en-US">
 
-<!-- Mirrored from zeenabfoods.com/dried-split-ginger/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 12 Dec 2022 20:15:55 GMT -->
+<!-- Mirrored from zeenabfoods.com/management-team/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 12 Dec 2022 20:22:19 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <title>Dried Split Ginger &#8211; Zeenab Foods</title>
+    <title>Management Team &#8211; Zeenab Foods</title>
     <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel="alternate" type="application/rss+xml" title="Zeenab Foods &raquo; Feed" href="../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Zeenab Foods &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Zeenab Foods &raquo; Feed" href="../feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Zeenab Foods &raquo; Comments Feed" href="../comments/feed/index.php" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/zeenabfoods.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
 /*! This file is auto-generated */
@@ -66,7 +66,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='magnific-popup-css' href='../wp-content/themes/landmaster/assets/css/magnific-popup8a54.css?ver=1.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='landmaster-theme-css' href='../wp-content/themes/landmaster/assets/css/theme97de.css?ver=1.0.5' type='text/css' media='all' />
 <style id='landmaster-theme-inline-css' type='text/css'>
-#site-header-wrap .site-branding a img{max-height:70px}@media screen and(max-width:991px){}#pagetitle .page-title-inner{text-align:left}@media screen and(min-width:992px){}.cms-get-in-touch,.widget{margin-bottom:10px }
+#site-header-wrap .site-branding a img{max-height:70px}@media screen and(max-width:991px){}body #pagetitle.pagetitle{background-image:url(../wp-content/uploads/2022/04/winock-loan-header1.jpg)}#pagetitle .page-title-inner{text-align:left}@media screen and(min-width:992px){}.cms-get-in-touch,.widget{margin-bottom:10px }
 </style>
 <link rel='stylesheet' id='twentytwenty-css' href='../wp-content/themes/landmaster/assets/css/twentytwenty001e.css?ver=2.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='animate-css' href='../wp-content/themes/landmaster/assets/css/animate8a54.css?ver=1.0.0' type='text/css' media='all' />
@@ -80,7 +80,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='elementor-post-3725-css' href='../wp-content/uploads/elementor/css/post-37257b52.css?ver=1659088014' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-pro-css' href='../wp-content/plugins/elementor-pro/assets/css/frontend-lite.min822f.css?ver=3.6.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css' href='../wp-content/uploads/elementor/css/globalc194.css?ver=1659088015' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-4067-css' href='../wp-content/uploads/elementor/css/post-4067faff.css?ver=1659098077' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1477-css' href='../wp-content/uploads/elementor/css/post-1477c7d6.css?ver=1660130833' type='text/css' media='all' />
 <link rel='stylesheet' id='ekit-widget-styles-css' href='../wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles6fca.css?ver=2.6.3' type='text/css' media='all' />
 <link rel='stylesheet' id='ekit-responsive-css' href='../wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive6fca.css?ver=2.6.3' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.1.1' type='text/css' media='all' />
@@ -90,10 +90,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.1.1" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='../indexf420.html?p=4067' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedf26d?url=https%3A%2F%2Fzeenabfoods.com%2Fdried-split-ginger%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed4f39?url=https%3A%2F%2Fzeenabfoods.com%2Fdried-split-ginger%2F&amp;format=xml" />
+<link rel="canonical" href="index.php" />
+<link rel='shortlink' href='../index3d9b.php?p=1477' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedf872.json?url=https%3A%2F%2Fzeenabfoods.com%2Fmanagement-team%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedea8a?url=https%3A%2F%2Fzeenabfoods.com%2Fmanagement-team%2F&amp;format=xml" />
 <meta name="generator" content="Redux 4.3.16" /><link rel="icon" type="image/png" href="../wp-content/uploads/2022/03/zeenab-favicon.png"/><meta name="generator" content="Powered by Slider Revolution 6.5.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 <script type="text/javascript">function setREVStartSize(e){
 			//window.requestAnimationFrame(function() {				 
@@ -144,10 +144,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				}					   
 			//});
 		  };</script>
-<style id="cms_theme_options-dynamic-css" title="dynamic-css" class="redux-options-output">.primary-menu > li > a, body .primary-menu .sub-menu li a{font-display:swap;}body #pagetitle{background-image:url('../wp-content/uploads/2020/01/ptt_default.jpg');background-size:cover;}a{color:#f26821;}a:hover{color:#f9960c;}a:active{color:#f99c1d;}body{font-display:swap;}#page.site h1,#page.site .h1,#page.site .text-heading{font-display:swap;}#page.site h2,#page.site .h2{font-display:swap;}#page.site h3,#page.site .h3{font-display:swap;}#page.site h4,#page.site .h4{font-display:swap;}#page.site h5,#page.site .h5{font-display:swap;}#page.site h6,#page.site .h6{font-display:swap;}</style><style id="cms-page-dynamic-css" data-type="redux-output-css">.site #pagetitle.pagetitle{padding-top:185px;padding-bottom:165px;}#content{padding-top:0px;padding-bottom:0px;}</style>	<meta name='ir-site-verification-token' value='-118640932'>
+<style id="cms_theme_options-dynamic-css" title="dynamic-css" class="redux-options-output">.primary-menu > li > a, body .primary-menu .sub-menu li a{font-display:swap;}body #pagetitle{background-image:url('../wp-content/uploads/2020/01/ptt_default.jpg');background-size:cover;}a{color:#f26821;}a:hover{color:#f9960c;}a:active{color:#f99c1d;}body{font-display:swap;}#page.site h1,#page.site .h1,#page.site .text-heading{font-display:swap;}#page.site h2,#page.site .h2{font-display:swap;}#page.site h3,#page.site .h3{font-display:swap;}#page.site h4,#page.site .h4{font-display:swap;}#page.site h5,#page.site .h5{font-display:swap;}#page.site h6,#page.site .h6{font-display:swap;}</style><style id="cms-page-dynamic-css" data-type="redux-output-css">#content{padding-top:0px;padding-bottom:0px;}</style>	<meta name='ir-site-verification-token' value='-118640932'>
 </head>
 
-<body class="page-template-default page page-id-4067 redux-page header-sticky elementor-default elementor-kit-3725 elementor-page elementor-page-4067">
+<body class="page-template-default page page-id-1477 redux-page header-sticky elementor-default elementor-kit-3725 elementor-page elementor-page-1477">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="site">
     <header id="masthead" class="site-header">
     <div id="site-header-wrap" class="header-layout1 fixed-height is-sticky">
@@ -161,10 +161,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                     <a title="Facebook" href="#"><i class="zmdi zmdi-facebook"></i></a>        <a title="Pinterest" href="#"><i class="zmdi zmdi-pinterest"></i></a>        <a title="Skype" href="#"><i class="zmdi zmdi-skype"></i></a>        <a title="Twitter" href="#"><i class="zmdi zmdi-twitter"></i></a>                                </div>
                             </div>
                             <div class="header-top-right font-smooth">
-                                <ul id="menu-useful-links" class="top-right-menu clearfix"><li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.html">About Us</a></li>
-<li id="menu-item-4158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="../rice/index.html">Grains</a></li>
-<li id="menu-item-4160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="../beans/index.html">Pulses</a></li>
-<li id="menu-item-4163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="../vegetable-oil/index.html">Edible Oils</a></li>
+                                <ul id="menu-useful-links" class="top-right-menu clearfix"><li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.php">About Us</a></li>
+<li id="menu-item-4158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="../rice/index.php">Grains</a></li>
+<li id="menu-item-4160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="../beans/index.php">Pulses</a></li>
+<li id="menu-item-4163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="../vegetable-oil/index.php">Edible Oils</a></li>
 </ul>                            </div>
                         </div>
                     </div>
@@ -178,7 +178,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                         <div class="site-header-main-inner">
                             <div class="header-main-above">
                                 <div class="site-branding">
-                                    <a class="logo-dark" href="../index.html" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a><a class="logo-light" href="../index.html" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a><a class="logo-mobile" href="../index.html" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/zeenab-favicon.png" alt="Zeenab Foods"/></a>                                </div>
+                                    <a class="logo-dark" href="../index.php" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a><a class="logo-light" href="../index.php" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a><a class="logo-mobile" href="../index.php" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/zeenab-favicon.png" alt="Zeenab Foods"/></a>                                </div>
                                                                     <div class="site-contact font-smooth">
                                                                                     <div class="ct-item ct-email">
                                                 <span><i class="fas fa-envelope-open"></i></span>
@@ -195,55 +195,55 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                 </div>
                                             </div>
                                                                                                                             <div class="ct-item site-menu-right-button">
-                                                                                                        <a href="../contact-us/index.html" target="_blank" class="menu-right-item btn hover-slide">
+                                                                                                        <a href="../contact-us/index.php" target="_blank" class="menu-right-item btn hover-slide">
                                                             <i class="icofont-price"></i> FREE QUOTE                                                        </a>
                                                                                                     </div>
                                                                             </div>
                                                             </div>
                             <div class="site-navigation">
                                 <div class="sticky-logo">
-                                    <a class="logo-light" href="../index.html" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a>                                </div>
+                                    <a class="logo-light" href="../index.php" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a>                                </div>
                                 <nav class="main-navigation">
-                                    <ul id="mastmenu" class="primary-menu clearfix"><li id="menu-item-3838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3838"><a href="../index.html">Home</a></li>
-<li id="menu-item-3839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839"><a href="../about-us/index.html">About Us</a></li>
-<li id="menu-item-3840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840"><a href="../management-team/index.html">Management Team</a></li>
+                                    <ul id="mastmenu" class="primary-menu clearfix"><li id="menu-item-3838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3838"><a href="../index.php">Home</a></li>
+<li id="menu-item-3839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839"><a href="../about-us/index.php">About Us</a></li>
+<li id="menu-item-3840" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1477 current_page_item menu-item-3840"><a href="index.php" aria-current="page">Management Team</a></li>
 <li id="menu-item-3851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3851"><a href="#">Products</a>
 <ul class="sub-menu">
 	<li id="menu-item-4091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4091"><a href="#">Grains</a>
 	<ul class="sub-menu">
-		<li id="menu-item-4094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4094"><a href="../rice/index.html">Rice</a></li>
-		<li id="menu-item-4092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4092"><a href="../millet/index.html">Millet</a></li>
-		<li id="menu-item-4093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4093"><a href="../sorghum/index.html">Sorghum</a></li>
+		<li id="menu-item-4094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4094"><a href="../rice/index.php">Rice</a></li>
+		<li id="menu-item-4092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4092"><a href="../millet/index.php">Millet</a></li>
+		<li id="menu-item-4093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4093"><a href="../sorghum/index.php">Sorghum</a></li>
 	</ul>
 </li>
 	<li id="menu-item-4095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4095"><a href="#">Pulses</a>
 	<ul class="sub-menu">
-		<li id="menu-item-4096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4096"><a href="../beans/index.html">Beans</a></li>
+		<li id="menu-item-4096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4096"><a href="../beans/index.php">Beans</a></li>
 	</ul>
 </li>
 	<li id="menu-item-4097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4097"><a href="#">Edible Oils</a>
 	<ul class="sub-menu">
-		<li id="menu-item-4100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4100"><a href="../palm-oil/index.html">Palm Oil</a></li>
-		<li id="menu-item-4098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4098"><a href="../soya-oil/index.html">Soya Oil</a></li>
-		<li id="menu-item-4099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4099"><a href="../vegetable-oil/index.html">Vegetable Oil</a></li>
+		<li id="menu-item-4100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4100"><a href="../palm-oil/index.php">Palm Oil</a></li>
+		<li id="menu-item-4098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4098"><a href="../soya-oil/index.php">Soya Oil</a></li>
+		<li id="menu-item-4099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4099"><a href="../vegetable-oil/index.php">Vegetable Oil</a></li>
 	</ul>
 </li>
 </ul>
 </li>
-<li id="menu-item-3852" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-3852"><a href="#">Exportable Agro-Commodities</a>
+<li id="menu-item-3852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3852"><a href="#">Exportable Agro-Commodities</a>
 <ul class="sub-menu">
-	<li id="menu-item-4224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4224"><a href="../cassava-chips/index.html">Cassava Chips</a></li>
-	<li id="menu-item-4105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4105"><a href="../cassia-seeds/index.html">Cassia Seed</a></li>
-	<li id="menu-item-4286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4286"><a href="../cocoa-beans/index.html">Cocoa Beans</a></li>
-	<li id="menu-item-4107" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4067 current_page_item menu-item-4107"><a href="index.html" aria-current="page">Dried Split Ginger</a></li>
-	<li id="menu-item-4103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4103"><a href="../gum-arabic/index.html">Gum Arabic</a></li>
-	<li id="menu-item-4102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4102"><a href="../hibiscus-flower/index.html">Hibiscus Flower</a></li>
-	<li id="menu-item-4101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4101"><a href="../peanuts/index.html">Peanuts</a></li>
-	<li id="menu-item-4104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4104"><a href="../raw-cashew-nut/index.html">Raw Cashew Nut</a></li>
-	<li id="menu-item-4106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4106"><a href="../sesame-seeds/index.html">Sesame Seeds</a></li>
+	<li id="menu-item-4224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4224"><a href="../cassava-chips/index.php">Cassava Chips</a></li>
+	<li id="menu-item-4105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4105"><a href="../cassia-seeds/index.php">Cassia Seed</a></li>
+	<li id="menu-item-4286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4286"><a href="../cocoa-beans/index.php">Cocoa Beans</a></li>
+	<li id="menu-item-4107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4107"><a href="../dried-split-ginger/index.php">Dried Split Ginger</a></li>
+	<li id="menu-item-4103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4103"><a href="../gum-arabic/index.php">Gum Arabic</a></li>
+	<li id="menu-item-4102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4102"><a href="../hibiscus-flower/index.php">Hibiscus Flower</a></li>
+	<li id="menu-item-4101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4101"><a href="../peanuts/index.php">Peanuts</a></li>
+	<li id="menu-item-4104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4104"><a href="../raw-cashew-nut/index.php">Raw Cashew Nut</a></li>
+	<li id="menu-item-4106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4106"><a href="../sesame-seeds/index.php">Sesame Seeds</a></li>
 </ul>
 </li>
-<li id="menu-item-3841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841"><a href="../contact-us/index.html">Contact Us</a></li>
+<li id="menu-item-3841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841"><a href="../contact-us/index.php">Contact Us</a></li>
 </ul>                                </nav>
                                 <div class="site-menu-right">
                                                                     </div>
@@ -260,114 +260,581 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
         </div>
     </div>
-</header>    <div id="content" class="site-content">
+</header>                    <div id="pagetitle" style="" class="pagetitle bg-overlay bg-image page-title-layout1">
+                    <div class="container">
+                        <div class="page-title-inner font-smooth left">
+                                                            <h1 class="page-title">Management Team</h1>
+                                                                                        <p class="page-sub-title">
+                                    Our team brings together highly skilled profesional that are dedicated to the work and make the production perfect.                                </p>
+                                                    </div>
+                                            </div>
+                </div>
+                    <div id="content" class="site-content">
     	<div class="content-inner">
     <div class="container content-container">
         <div class="row content-row">
             <div id="primary"  class="content-area content-full-width col-12">
                 <main id="main" class="site-main">
                     
-<article id="post-4067" class="post-4067 page type-page status-publish hentry">
+<article id="post-1477" class="post-1477 page type-page status-publish hentry">
     <div class="entry-content clearfix">
-        		<div data-elementor-type="wp-page" data-elementor-id="4067" class="elementor elementor-4067">
-							        <section class="elementor-section elementor-top-section elementor-element elementor-element-51eb729 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51eb729" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+        		<div data-elementor-type="wp-page" data-elementor-id="1477" class="elementor elementor-1477">
+							        <section class="elementor-section elementor-top-section elementor-element elementor-element-4f177b7 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f177b7" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
             
                         <div class="elementor-container elementor-column-gap-default ">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-da691b0" data-id="da691b0" data-element_type="column">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ce058d0" data-id="ce058d0" data-element_type="column">
             <div class="elementor-widget-wrap elementor-element-populated">
-                        		<div class="elementor-element elementor-element-a874a68 elementor-widget elementor-widget-spacer" data-id="a874a68" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.6.8 - 27-07-2022 */
-.e-container.e-container--row .elementor-spacer-inner{width:var(--spacer-size)}.e-container.e-container--column .elementor-spacer-inner,.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}</style>		<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-af5ab84 elementor-widget elementor-widget-cms_heading" data-id="af5ab84" data-element_type="widget" data-widget_type="cms_heading.default">
+                        		<div class="elementor-element elementor-element-f614a01 elementor-widget elementor-widget-cms_heading" data-id="f614a01" data-element_type="widget" data-widget_type="cms_heading.default">
 				<div class="elementor-widget-container">
 			<div class="cms-heading layout1">
+    
             <h2 class="custom-heading">
             <span >
-                Nutritional Benefits            </span>
+                Our Management Team            </span>
         </h2>
-    </div>
+        
+            <div class="custom-description">
+            We have a team of well-experienced individuals that work together to keep the company in a positive flow.        </div>
+    
+            <span class="heading-underline solid-dashed">
+            <span></span>
+        </span>
+    
+</div>
 
 		</div>
 				</div>
-				<div class="elementor-element elementor-element-bf42d39 elementor-widget elementor-widget-text-editor" data-id="bf42d39" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.6.8 - 27-07-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Ginger is used for culinary and medicinal purposes. The health benefits includes reducing nausea, pain, and inflammation. It is used to make tea, chopped or crushed in curries and savoury dishes. Ginger can also be dried or crystalized in sweets and confectionaries.</p>						</div>
-				</div>
-		            </div>
-        </div>
-                            </div>
-        </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-5553935 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5553935" data-element_type="section">
+		        <section class="elementor-section elementor-inner-section elementor-element elementor-element-b570a2c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b570a2c" data-element_type="section">
             
-                        <div class="elementor-container elementor-column-gap-no ">
-                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-86fa6d2" data-id="86fa6d2" data-element_type="column">
+                        <div class="elementor-container elementor-column-gap-default ">
+                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-191040a" data-id="191040a" data-element_type="column">
             <div class="elementor-widget-wrap elementor-element-populated">
-                        		<div class="elementor-element elementor-element-8251362 elementor-widget elementor-widget-image" data-id="8251362" data-element_type="widget" data-widget_type="image.default">
+                        		<div class="elementor-element elementor-element-f49f634 elementor-widget elementor-widget-image" data-id="f49f634" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.8 - 27-07-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="600" height="400" src="../wp-content/uploads/2022/04/Dried-split-manager.jpg" class="attachment-full size-full" alt="" srcset="https://zeenabfoods.com/wp-content/uploads/2022/04/Dried-split-manager.jpg 600w, https://zeenabfoods.com/wp-content/uploads/2022/04/Dried-split-manager-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="1000" height="1000" src="../wp-content/uploads/2022/06/MD.jpg" class="attachment-full size-full" alt="" srcset="https://zeenabfoods.com/wp-content/uploads/2022/06/MD.jpg 1000w, https://zeenabfoods.com/wp-content/uploads/2022/06/MD-300x300.jpg 300w, https://zeenabfoods.com/wp-content/uploads/2022/06/MD-150x150.jpg 150w, https://zeenabfoods.com/wp-content/uploads/2022/06/MD-768x768.jpg 768w, https://zeenabfoods.com/wp-content/uploads/2022/06/MD-600x600.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-66e2faa ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="66e2faa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" target="_self" rel="" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Ayemere Victor                 </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
 				</div>
 		            </div>
         </div>
-                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-eb90d8e" data-id="eb90d8e" data-element_type="column">
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e874948" data-id="e874948" data-element_type="column">
             <div class="elementor-widget-wrap elementor-element-populated">
-                        		<div class="elementor-element elementor-element-4df2457 elementor-widget elementor-widget-cms_heading" data-id="4df2457" data-element_type="widget" data-widget_type="cms_heading.default">
+                        		<div class="elementor-element elementor-element-581afaf ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="581afaf" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="cms-heading layout1">
-            <h2 class="custom-heading">
-            <span >
-                Dried Split Ginger             </span>
-        </h2>
-    </div>
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
 
-		</div>
-				</div>
-				<div class="elementor-element elementor-element-c2cf2ec elementor-widget elementor-widget-text-editor" data-id="c2cf2ec" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Nigeria is amongst the major producers and suppliers of dried split ginger in the global market and its the third largest exporter of ginger in the world after China and India.</p><p>Our ginger has good aroma, pungency, high oil and oleoresin contents.</p>						</div>
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Managing Director/ CEO                </h3>
+                        		  <p>Victor is an experienced Business Executive with a proven track record of success and have been consistently recognized as an outstanding performer throughout his career.
+
+He holds a Bachelors degree in Accounting from the University of Port Harcourt, Rivers State as well as a Masters degree in International Business from Baze University Abuja.
+
+A distinguished career with vast experience in the banking sector.</br>
+During his banking days, he held several key positions across various financial institutions of Nigeria (Access Bank Plc, Guaranty Trust Bank of Nigeria), He has in-depth experience in the local and international fonts of accounting, International Business, Branding, Strategic Management and Human Resource Management.</br>
+
+As Managing Director, he has led the company through several business development concepts which have seen the company grow in leaps and bounds, recorded milestones in food processing and agricultural commodity trading for both local and international customers.</br> Victor is the President of the Benin Oil palm cluster group and Deputy National President of the cassia tora producers, processors, and exporters associations of Nigeria. 
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
 				</div>
 		            </div>
         </div>
                             </div>
         </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-8d3655c elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8d3655c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                <section class="elementor-section elementor-inner-section elementor-element elementor-element-f0da0e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f0da0e4" data-element_type="section">
+            
+                        <div class="elementor-container elementor-column-gap-default ">
+                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8b0d73b" data-id="8b0d73b" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-b8b4218 elementor-widget elementor-widget-image" data-id="b8b4218" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="652" height="575" src="../wp-content/uploads/2022/07/bol..png" class="attachment-full size-full" alt="bolaji" srcset="https://zeenabfoods.com/wp-content/uploads/2022/07/bol..png 652w, https://zeenabfoods.com/wp-content/uploads/2022/07/bol.-300x265.png 300w" sizes="(max-width: 652px) 100vw, 652px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-9ca79b5 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="9ca79b5" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" target="_self" rel="" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Bolaji Audu                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bca4173" data-id="bca4173" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-eb94619 ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="eb94619" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Executive Director Finance                </h3>
+                        		  <p>Bolaji holds a Master Degree in Economics from the Lagos State University. He started his working career with the Lagos State Board of Internal Revenue in 1996. He later joined the legacy Magnum Trust Bank in 2004 which later merged with four other banks – Trust Bank of Africa, Indo-Nigeria Merchant Bank, NAL Bank of Nigeria and NBL Bank – to form Sterling Bank in 2006. 
+
+He has over seventeen years banking experience with experiences in Treasury Management, Sales/Marketing and other various departments. 
+
+He has attended various Management trainings both local and international – among these are Leading for Impact – Dubai, The Winning Attitude, Team Building Skills &amp;Emotional Intelligence – Nigeria, Effective Leadership Development – Nigeria etc.
+
+Bolaji is an Associate Member of the National Institute of Marketing of Nigeria (NIMN).</br></br>
+
+He is currently the  Executive Director Finance and Admin for  Nigerian Export Trade House where he deploys his rich past experience and Man management skills to direct financial affairs and personnel management with prudence. 
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                            </div>
+        </section>
+                <section class="elementor-section elementor-inner-section elementor-element elementor-element-e8e35c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e8e35c7" data-element_type="section">
+            
+                        <div class="elementor-container elementor-column-gap-default ">
+                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-83088d6" data-id="83088d6" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-a07c939 elementor-widget elementor-widget-image" data-id="a07c939" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1000" height="1000" src="../wp-content/uploads/2022/06/ED-Co-Services.jpg" class="attachment-full size-full" alt="" srcset="https://zeenabfoods.com/wp-content/uploads/2022/06/ED-Co-Services.jpg 1000w, https://zeenabfoods.com/wp-content/uploads/2022/06/ED-Co-Services-300x300.jpg 300w, https://zeenabfoods.com/wp-content/uploads/2022/06/ED-Co-Services-150x150.jpg 150w, https://zeenabfoods.com/wp-content/uploads/2022/06/ED-Co-Services-768x768.jpg 768w, https://zeenabfoods.com/wp-content/uploads/2022/06/ED-Co-Services-600x600.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-561f02e ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="561f02e" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" target="_self" rel="" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Ibironke Ayemere                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-adf8e6b" data-id="adf8e6b" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-4a7ae56 ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="4a7ae56" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Executive Director Corporate Services                </h3>
+                        		  <p>Ibironke holds a Bachelors degree in English Language Studies and a Masters degree in International Law and Diplomacy, both from the University of Lagos. She has over 15 years of experience spread across Branding, Business Consulting and Television Programming.</br>
+She is a proven professional with an efficient touch who has worked on several governmental and private projects in Abuja, Lagos, Rivers, and Edo state before joining Zeenab Foods Limited.
+
+She is currently the Executive Director of Corporate Services where she deploys innovation, experience, and entrepreneurial excellence.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                            </div>
+        </section>
+                <section class="elementor-section elementor-inner-section elementor-element elementor-element-e02eb7d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e02eb7d" data-element_type="section">
+            
+                        <div class="elementor-container elementor-column-gap-default ">
+                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8ae70e5" data-id="8ae70e5" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-343acc4 elementor-widget elementor-widget-image" data-id="343acc4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="810" height="1080" src="../wp-content/uploads/2022/08/cfo.png" class="attachment-full size-full" alt="Yahya" srcset="https://zeenabfoods.com/wp-content/uploads/2022/08/cfo.png 810w, https://zeenabfoods.com/wp-content/uploads/2022/08/cfo-225x300.png 225w, https://zeenabfoods.com/wp-content/uploads/2022/08/cfo-768x1024.png 768w" sizes="(max-width: 810px) 100vw, 810px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-659035e ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="659035e" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" target="_self" rel="" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Mohammed Yahaya Attah                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4c76906" data-id="4c76906" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-fa0691a ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="fa0691a" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Chief Financial Officer                </h3>
+                        		  <p>Mohammed is the CFO of Zeenab group. He holds a Higher National Diploma in Accountancy from Federal Polytechnic, Idah, Kogi state (1997). He also holds a Post Graduate Diploma in Management (PGDM) from University of Agriculture, Makurdi, Benue state. Alh Mohammed A Yahaya is a professionally qualified Accountant, an Associate of Chattered Accountants (ACA) of the Institute of Chartered Accountants of Nigeria.</br>
+His work experience spammed over 22 years in Food Manufacturing Industry and Audit practice.</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                            </div>
+        </section>
+                <section class="elementor-section elementor-inner-section elementor-element elementor-element-676736a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="676736a" data-element_type="section">
+            
+                        <div class="elementor-container elementor-column-gap-default ">
+                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-48204ee" data-id="48204ee" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-308eeed elementor-widget elementor-widget-image" data-id="308eeed" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="729" height="909" src="../wp-content/uploads/2022/08/Charles-Id..png" class="attachment-full size-full" alt="charles" srcset="https://zeenabfoods.com/wp-content/uploads/2022/08/Charles-Id..png 729w, https://zeenabfoods.com/wp-content/uploads/2022/08/Charles-Id.-241x300.png 241w" sizes="(max-width: 729px) 100vw, 729px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-8a057f2 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="8a057f2" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" target="_self" rel="" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Charles Idubo                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-97b9509" data-id="97b9509" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-83a3a53 ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="83a3a53" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    General Manager Domestic Operations                </h3>
+                        		  <p>Charles holds a B.Sc. in accounting and a Master’s degree in Business Administration (MBA) both from the University of Benin. He is an Associate member of Nigeria institute of Management  (AMNIM), and an Associate member  Of Chartered Institute of Finance &amp; Control
+Of Nigeria (AMCIFCN) and also, a Fellow of the Institute of Professional  Managers and Administrators of Nigeria (FIPMA). 
+He runs the company’s operations within Nigeria, he has over 18 years of working experience which spreads across Civil/Structural and Environmental Engineering, Oil and gas,  Manufacturing, Insurance and Finance, Agro Allied  sector etc.</br>
+ He has attended several trainings and workshops on leadership and Business Administration Management. He is happily married with children.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                            </div>
+        </section>
+                <section class="elementor-section elementor-inner-section elementor-element elementor-element-88b488a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="88b488a" data-element_type="section">
+            
+                        <div class="elementor-container elementor-column-gap-default ">
+                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-98f6a46" data-id="98f6a46" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-09b9671 elementor-widget elementor-widget-image" data-id="09b9671" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1000" height="1000" src="../wp-content/uploads/2022/06/AGM.jpg" class="attachment-full size-full" alt="" srcset="https://zeenabfoods.com/wp-content/uploads/2022/06/AGM.jpg 1000w, https://zeenabfoods.com/wp-content/uploads/2022/06/AGM-300x300.jpg 300w, https://zeenabfoods.com/wp-content/uploads/2022/06/AGM-150x150.jpg 150w, https://zeenabfoods.com/wp-content/uploads/2022/06/AGM-768x768.jpg 768w, https://zeenabfoods.com/wp-content/uploads/2022/06/AGM-600x600.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a8d9c60 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="a8d9c60" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" target="_self" rel="" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Daniel Igbinoba                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f8646ac" data-id="f8646ac" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-df58f71 ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="df58f71" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Assistant General Manager International Operations                 </h3>
+                        		  <p>Daniel holds a Bachelor's Degree in Production Engineering from the University of Benin. He also holds certifications from the Nigerian Institute of Safety Professionals (NISP) level 2 and 3, Occupational Safety and Health Academy USA (OSHA- Manager) in 2012. 
+
+He is a member of the Nigerian Institute of Management.</br>
+He has vast experience in the Oil and Gas, Construction, and Manufacturing sector.
+His in-depth experience as an export manager made him rise to the position of Assistant General Manager of International Operations.</br> 
+He manages business relationship with foreign off-takers, stakeholders and directs all export operations. He is a quintessential professional that is result-oriented with over 20 years of working experience and has attended several leadership training.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                            </div>
+        </section>
+                <section class="elementor-section elementor-inner-section elementor-element elementor-element-8a497d8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8a497d8" data-element_type="section">
+            
+                        <div class="elementor-container elementor-column-gap-default ">
+                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3b8bccc" data-id="3b8bccc" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-73ce618 elementor-widget elementor-widget-image" data-id="73ce618" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="726" height="906" src="../wp-content/uploads/2022/08/fatimah-1.png" class="attachment-full size-full" alt="" srcset="https://zeenabfoods.com/wp-content/uploads/2022/08/fatimah-1.png 726w, https://zeenabfoods.com/wp-content/uploads/2022/08/fatimah-1-240x300.png 240w" sizes="(max-width: 726px) 100vw, 726px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-18c6f8a ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="18c6f8a" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" target="_self" rel="" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Fatima Bissalah Wujat                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a14be39" data-id="a14be39" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-740f339 ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="740f339" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Head of Operations, Kano                </h3>
+                        		  <p>Fatima holds a B.Sc. in Agriculture from Ahmadu Bello University Zaria and a Master’s degree in Business Administration (MBA) from Bayero University.
+She is a recipient of Kaduna State Scholarship for undergraduates, recipient of Stanbic IBTC most customer centric and beyond excellence award.
+She has over 10 years of working experience which spreads across Administration, Agricultural and Banking sector. Her in-depth experience made her  Zeenab Foods, Head of Operations, Kano.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                            </div>
+        </section>
+                <section class="elementor-section elementor-inner-section elementor-element elementor-element-1ffefd4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ffefd4" data-element_type="section">
+            
+                        <div class="elementor-container elementor-column-gap-default ">
+                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b84ed21" data-id="b84ed21" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-2448290 elementor-widget elementor-widget-image" data-id="2448290" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="647" height="813" src="../wp-content/uploads/2022/07/Patr..png" class="attachment-full size-full" alt="patrick" srcset="https://zeenabfoods.com/wp-content/uploads/2022/07/Patr..png 647w, https://zeenabfoods.com/wp-content/uploads/2022/07/Patr.-239x300.png 239w" sizes="(max-width: 647px) 100vw, 647px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-f40ee6d ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="f40ee6d" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" target="_self" rel="" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Patrick Odiegwu                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5dec4f1" data-id="5dec4f1" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-eeee448 ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="eeee448" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Business Development Manager                </h3>
+                        		  <p>Patrick is an alumni of Tekedia Institute USA, Mini-MBA, currently work as Business Development Manager with Zeenab Group where he deploys his vast experience in reinforcing existing and developing new business concepts and Strategies. 
+
+He is also a director in the board of Polyguard Investment Nig Ltd . 
+<br><br>
+He  had also previously worked as a  Sales Consultant with XLN Telecom in England and India, (2002-2006),  Commodity Agent with MRI Trading AG (2014-2018), Business Development Director and Member Editorial Board: Anthracyte Ltd., a Mining Servicing Company ,  Publisher of Rock Post Magazine (2014 to 2016), Vice President (Mines) 2009-2013 &amp; Mining Consultant (2015 - Date).
+
+He was re-elected 3rd Deputy/Vice President (Mines) (2021) to Benue Chamber of Commerce, Industry, Mines and Agriculture (BECCIMA), Board Member; Benue Mining Implementation Strategic Team (MIST), (2017 - Date). He is also the National Publicity Secretary/Acting Secretary General, Association of Miners and Processors of Barite (2014 till Date) .
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                            </div>
+        </section>
+                <section class="elementor-section elementor-inner-section elementor-element elementor-element-400a20e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="400a20e" data-element_type="section">
+            
+                        <div class="elementor-container elementor-column-gap-default ">
+                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c1a9c07" data-id="c1a9c07" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-b740686 elementor-widget elementor-widget-image" data-id="b740686" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="864" height="1080" src="../wp-content/uploads/2022/06/Aisosa.jpg" class="attachment-full size-full" alt="aisosa" srcset="https://zeenabfoods.com/wp-content/uploads/2022/06/Aisosa.jpg 864w, https://zeenabfoods.com/wp-content/uploads/2022/06/Aisosa-240x300.jpg 240w, https://zeenabfoods.com/wp-content/uploads/2022/06/Aisosa-819x1024.jpg 819w, https://zeenabfoods.com/wp-content/uploads/2022/06/Aisosa-768x960.jpg 768w, https://zeenabfoods.com/wp-content/uploads/2022/06/Aisosa-600x750.jpg 600w" sizes="(max-width: 864px) 100vw, 864px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3087268 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="3087268" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" target="_self" rel="" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Aisosa Daniel Aigbovbiosa                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-554797a" data-id="554797a" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-df97e97 ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="df97e97" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Head of Corperate Communications                 </h3>
+                        		  <p>Aisosa is a Communications connoisseur with a Bachelors degree in Mass Communication, a Masters (Hons) degree in Public Relations, and a Communications and Media Management Ph.D. candidate at Girne American University. </br>
+Aisosa is making a name for himself in the Public Relations and Communications sector by simply being hard-working, consistent with his work ethic and ambitious.
+He has developed a mature and responsible approach to any task he undertakes or situation he may be presented with.</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+		            </div>
+        </div>
+                            </div>
+        </section>
+                    </div>
+        </div>
+                            </div>
+        </section>
+                <section class="elementor-section elementor-top-section elementor-element elementor-element-682c362 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="682c362" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                             <div class="elementor-background-overlay"></div>
                 
                         <div class="elementor-container elementor-column-gap-no ">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ae6ffa6" data-id="ae6ffa6" data-element_type="column">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-38b5384" data-id="38b5384" data-element_type="column">
             <div class="elementor-widget-wrap elementor-element-populated">
-                        		<div class="elementor-element elementor-element-36a690e elementor-widget elementor-widget-cms_heading" data-id="36a690e" data-element_type="widget" data-widget_type="cms_heading.default">
+                        		<div class="elementor-element elementor-element-889d21b elementor-widget elementor-widget-cms_heading" data-id="889d21b" data-element_type="widget" data-widget_type="cms_heading.default">
 				<div class="elementor-widget-container">
 			<div class="cms-heading layout1">
             <h4 class="custom-heading">
             <span >
-                We Are Here To Help You             </span>
+                We Are Right Here To Help You             </span>
         </h4>
     </div>
 
 		</div>
 				</div>
-				<div class="elementor-element elementor-element-6afd236 elementor-invisible elementor-widget elementor-widget-cms_heading" data-id="6afd236" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;tada&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="cms_heading.default">
+				<div class="elementor-element elementor-element-d9be3ed elementor-invisible elementor-widget elementor-widget-cms_heading" data-id="d9be3ed" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;tada&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="cms_heading.default">
 				<div class="elementor-widget-container">
 			<div class="cms-heading layout1">
             <h4 class="custom-heading">
-            <span >
-                CALL US: <span style="color: #f99c1d;">+234 809 346 7008 </span>            </span>
+            <a href="tel:+2348093467008">
+                CALL US: <span style="color: #f99c1d;">+234 809 346 7008 </span>            </a>
         </h4>
     </div>
 
 		</div>
 				</div>
-				<div class="elementor-element elementor-element-d10bc31 elementor-invisible elementor-widget elementor-widget-cms_button" data-id="d10bc31" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;flash&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="cms_button.default">
+				<div class="elementor-element elementor-element-81d1b9a elementor-invisible elementor-widget elementor-widget-cms_button" data-id="81d1b9a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;flash&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="cms_button.default">
 				<div class="elementor-widget-container">
 			<div class="cms-button-wrapper cms-button layout1">
-    <a href="../contact-us/index.html" target="_blank" rel="nofollow" class="btn btn-default">
+    <a href="../contact-us/index.php" target="_blank" rel="nofollow" class="btn btn-default">
                             <span class="cms-button-icon cms-align-icon-">
                             </span>
                 <span class="cms-button-text">Contact Us</span>
@@ -381,7 +848,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         					</div>
 		    </div><!-- .entry-content -->
 
-    </article><!-- #post-4067 -->
+    </article><!-- #post-1477 -->
                 </main><!-- #main -->
             </div><!-- #primary -->
 
@@ -415,10 +882,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                     </div>
                 </div>
                                 </div>
-        </div><div class="cms-footer-item col-xl-3 col-lg-3 col-md-6 col-sm-12"><section id="nav_menu-4" class="footer-top-menu widget widget_nav_menu"><h2 class="footer-widget-title">Useful Links</h2><div class="menu-useful-links-container"><ul id="menu-useful-links-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.html">About Us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="../rice/index.html">Grains</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="../beans/index.html">Pulses</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="../vegetable-oil/index.html">Edible Oils</a></li>
+        </div><div class="cms-footer-item col-xl-3 col-lg-3 col-md-6 col-sm-12"><section id="nav_menu-4" class="footer-top-menu widget widget_nav_menu"><h2 class="footer-widget-title">Useful Links</h2><div class="menu-useful-links-container"><ul id="menu-useful-links-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.php">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="../rice/index.php">Grains</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="../beans/index.php">Pulses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="../vegetable-oil/index.php">Edible Oils</a></li>
 </ul></div></section></div><div class="cms-footer-item col-xl-3 col-lg-3 col-md-6 col-sm-12">        <div class="cms-get-in-touch widget">
                             <h3 class="widget-title footer-widget-title">Our Locations </h3>
                                                                 <div class="cms-contact-info-item type-address">
@@ -533,7 +1000,7 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/zeenabfoods.com\/wp-admin
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.8","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/zeenabfoods.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4067,"title":"Dried%20Split%20Ginger%20%E2%80%93%20Zeenab%20Foods","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.8","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/zeenabfoods.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1477,"title":"Management%20Team%20%E2%80%93%20Zeenab%20Foods","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.mina4f3.js?ver=3.6.8' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/js/elements-handlers.min822f.js?ver=3.6.2' id='pro-elements-handlers-js'></script>
@@ -548,5 +1015,5 @@ var ekit_config = {"ajaxurl":"https:\/\/zeenabfoods.com\/wp-admin\/admin-ajax.ph
 
 </body>
 
-<!-- Mirrored from zeenabfoods.com/dried-split-ginger/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 12 Dec 2022 20:15:55 GMT -->
+<!-- Mirrored from zeenabfoods.com/management-team/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 12 Dec 2022 20:23:14 GMT -->
 </html>

@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 
-
-<!-- Mirrored from www.nigerianexportershub.com/subscription by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 19 Feb 2023 02:50:50 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -31,7 +28,7 @@
 		<nav class="navigation">
 			<div class="header-content">
 				<div class="header-logo-box">
-					<a href="index.html">
+					<a href="index.php">
 						<img src="assets/images/maain-logo.png" alt="">
 					</a>
 					<div class="homeburger-manu" id="header-fa-bar">
@@ -40,12 +37,12 @@
 				</div>
 			</div>
 
-			<div class="nav-manulist-box" style="background-color:lightgrey;">
+			<div class="nav-manulist-box" >
 				<div class="contact-box">
 					<div class="nav-numbar">
 						<a href="tel: +234 7062993384">
 							<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" x="0" y="0" version="1.1"
-								viewBox="0 0 29 29" xml:space="preserve" fill="#fff" width="28" height="22">
+								viewBox="0 0 29 29" xml:space="preserve" fill="#F26821" width="28" height="22">
 								<path
 									d="m20.914 17.743-2.091 1.178a1.319 1.319 0 0 1-1.58-.217l-6.979-6.979a1.32 1.32 0 0 1-.217-1.58l1.178-2.091a1.978 1.978 0 0 0-.325-2.37L7.766 2.55a1.978 1.978 0 0 0-2.798 0L3.545 3.972a5.276 5.276 0 0 0-.793 6.446l.714 1.19a41.36 41.36 0 0 0 14.946 14.631l.141.081c2.102 1.201 4.699.851 6.382-.831l1.486-1.486a1.978 1.978 0 0 0 0-2.798l-3.136-3.136a1.978 1.978 0 0 0-2.371-.326z" />
 							</svg>
@@ -54,7 +51,7 @@
 					</div>
 					<div class="nav-numbar">
 						<a href="mailto:info@EEH.com">
-							<svg xmlns="#" viewBox="0 0 128 96" fill="#fff" width="18"
+							<svg xmlns="#" viewBox="0 0 128 96" fill="#F26821" width="18"
 								height="28">
 								<path
 									d="M0 11.283V8a8 8 0 0 1 8-8h112a8 8 0 0 1 8 8v3.283l-64 40zm66.12 48.11a4.004 4.004 0 0 1-4.24 0L0 20.717V88a8 8 0 0 0 8 8h112a8 8 0 0 0 8-8V20.717z"
@@ -70,23 +67,23 @@
 						<div class="manu-list">
 							<ul class="listing-box">
 								<li>
-									<a href="index.html">Home</a>
+									<a href="index.php">Home</a>
 								</li>
 								<li class="about-main">
 									<a href="#">About</a>
 									<svg xmlns="#" viewBox="0 0 24 24" width="28"
-										fill="#000">
+										fill="#fff">
 										<path
 											d="M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z" />
 									</svg>
 									<ul class="abourt-list">
 										<li>
-											<a href="how-E-ExportHub-work.html">
+											<a href="how-E-ExportHub-work.php">
 												How E-Eport Hub Works
 											</a>
 										</li>
 										<li>
-											<a href="subscription.html">
+											<a href="subscription.php">
 												Our Plans
 											</a>
 										</li>
@@ -96,12 +93,12 @@
 									</ul>
 								</li>
 								<li class="about-main">
-									<a href="benefits.html">Benefits</a>
+									<a href="benefits.php">Benefits</a>
 								</li>
 																<li class="about-main">
 									<a href="#" onclick="event.preventDefault();" >Sign In/Sign Up</a>
 									<svg xmlns="#" viewBox="0 0 24 24" width="28"
-										fill="#000">
+										fill="#fff">
 										<path
 											d="M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z" />
 									</svg>
@@ -113,7 +110,7 @@
 										</li>
 										<li>
 											<a 
-												href="index.html#signup">Sign
+												href="index.php#signup">Sign
 												Up</a>
 										</li>
 									</ul>
@@ -123,7 +120,7 @@
 								</li>
 
 							<!--	<span class="manu-btn-box">
-									<a href="sponsor.html">Sponsor/Finance A Project >></a>
+									<a href="sponsor.php">Sponsor/Finance A Project >></a>
 								</span>-->
 							</ul>
 						</div>
@@ -349,7 +346,7 @@
             </div>
         </div>
     </section>
-     <section class="latest-news-wrapper ">
+     <!-- <section class="latest-news-wrapper ">
             <div class="container">
                 <div class="latest-news-content">
                     <div class="latest-title-box">
@@ -932,7 +929,7 @@
 
                 </div>
             </div>
-        </section>
+        </section> -->
     <div class="modal fade" id="error-modal" tabindex="-1" role="dialog" aria-labelledby="error-modal"
         aria-hidden="true">
         <div class="modal-dialog dialog-popup modal-dialog-centered" role="document">
@@ -990,7 +987,7 @@
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="footer-img">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <h1>NEXHub</h1>
                                 </a>
                             </div>
@@ -1010,11 +1007,11 @@
 
                             <div class="links_warp">
 
-                                <li><a href="benefits.html">Learn how to export</a></li>
-                                <li><a href="benefits.html">Learn what to export</a></li>
-                                <li><a href="benefits.html">Learn where to export</a></li>
-                                <li><a href="benefits.html">Learn to whom to export</a></li>
-                                <li><a href="benefits.html">Get verified off-takers</a></li>-->
+                                <li><a href="benefits.php">Learn how to export</a></li>
+                                <li><a href="benefits.php">Learn what to export</a></li>
+                                <li><a href="benefits.php">Learn where to export</a></li>
+                                <li><a href="benefits.php">Learn to whom to export</a></li>
+                                <li><a href="benefits.php">Get verified off-takers</a></li>-->
                                 <!-- <li><a href="benefits">Business Support Benefit</a></li>
                                 <li><a href="benefits">Vehicle Trade-in Benefit</a></li>
                                 <li><a href="benefits">Education Support Benefit</a></li>
@@ -1080,7 +1077,7 @@
                     </span>
                 </div>
                 <div class="footer-terms">
-                    <p class="second"><a href="terms.html">Terms</a> | <a href="privacy.html">Privacy</a> Powered by - <a
+                    <p class="second"><a href="terms.php">Terms</a> | <a href="privacy.php">Privacy</a> Powered by - <a
                             href="https://ovalgroup.org/" target="_blank">Skibusiness</a>
                     </p>
                 </div>
@@ -1118,7 +1115,7 @@
                         </div>
                     </div>
                     <div class="text-center mt-3" >
-                        <a href="forgot-password.html" class="forgotpasswordbtn">
+                        <a href="forgot-password.php" class="forgotpasswordbtn">
                             Forgot password?
                         </a>
                     </div>

@@ -1,17 +1,17 @@
 <!doctype html>
 <html lang="en-US">
 
-<!-- Mirrored from zeenabfoods.com/sesame-seeds/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 12 Dec 2022 20:15:56 GMT -->
+<!-- Mirrored from zeenabfoods.com/cassava-chips/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 12 Dec 2022 20:15:54 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <title>Sesame Seeds &#8211; Zeenab Foods</title>
+    <title>Cassava Chips &#8211; Zeenab Foods</title>
     <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel="alternate" type="application/rss+xml" title="Zeenab Foods &raquo; Feed" href="../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Zeenab Foods &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Zeenab Foods &raquo; Feed" href="../feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Zeenab Foods &raquo; Comments Feed" href="../comments/feed/index.php" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/zeenabfoods.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
 /*! This file is auto-generated */
@@ -80,7 +80,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='elementor-post-3725-css' href='../wp-content/uploads/elementor/css/post-37257b52.css?ver=1659088014' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-pro-css' href='../wp-content/plugins/elementor-pro/assets/css/frontend-lite.min822f.css?ver=3.6.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css' href='../wp-content/uploads/elementor/css/globalc194.css?ver=1659088015' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-4030-css' href='../wp-content/uploads/elementor/css/post-40304ad9.css?ver=1659095560' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-4216-css' href='../wp-content/uploads/elementor/css/post-42163f9d.css?ver=1659199364' type='text/css' media='all' />
 <link rel='stylesheet' id='ekit-widget-styles-css' href='../wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles6fca.css?ver=2.6.3' type='text/css' media='all' />
 <link rel='stylesheet' id='ekit-responsive-css' href='../wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive6fca.css?ver=2.6.3' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.1.1' type='text/css' media='all' />
@@ -90,10 +90,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.1.1" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='../indexebb3.html?p=4030' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaee7?url=https%3A%2F%2Fzeenabfoods.com%2Fsesame-seeds%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embeda341?url=https%3A%2F%2Fzeenabfoods.com%2Fsesame-seeds%2F&amp;format=xml" />
+<link rel="canonical" href="index.php" />
+<link rel='shortlink' href='../index2c63.php?p=4216' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed602b?url=https%3A%2F%2Fzeenabfoods.com%2Fcassava-chips%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed01dd?url=https%3A%2F%2Fzeenabfoods.com%2Fcassava-chips%2F&amp;format=xml" />
 <meta name="generator" content="Redux 4.3.16" /><link rel="icon" type="image/png" href="../wp-content/uploads/2022/03/zeenab-favicon.png"/><meta name="generator" content="Powered by Slider Revolution 6.5.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 <script type="text/javascript">function setREVStartSize(e){
 			//window.requestAnimationFrame(function() {				 
@@ -147,7 +147,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <style id="cms_theme_options-dynamic-css" title="dynamic-css" class="redux-options-output">.primary-menu > li > a, body .primary-menu .sub-menu li a{font-display:swap;}body #pagetitle{background-image:url('../wp-content/uploads/2020/01/ptt_default.jpg');background-size:cover;}a{color:#f26821;}a:hover{color:#f9960c;}a:active{color:#f99c1d;}body{font-display:swap;}#page.site h1,#page.site .h1,#page.site .text-heading{font-display:swap;}#page.site h2,#page.site .h2{font-display:swap;}#page.site h3,#page.site .h3{font-display:swap;}#page.site h4,#page.site .h4{font-display:swap;}#page.site h5,#page.site .h5{font-display:swap;}#page.site h6,#page.site .h6{font-display:swap;}</style><style id="cms-page-dynamic-css" data-type="redux-output-css">.site #pagetitle.pagetitle{padding-top:185px;padding-bottom:165px;}#content{padding-top:0px;padding-bottom:0px;}</style>	<meta name='ir-site-verification-token' value='-118640932'>
 </head>
 
-<body class="page-template-default page page-id-4030 redux-page header-sticky elementor-default elementor-kit-3725 elementor-page elementor-page-4030">
+<body class="page-template-default page page-id-4216 redux-page header-sticky elementor-default elementor-kit-3725 elementor-page elementor-page-4216">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="site">
     <header id="masthead" class="site-header">
     <div id="site-header-wrap" class="header-layout1 fixed-height is-sticky">
@@ -161,10 +161,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                     <a title="Facebook" href="#"><i class="zmdi zmdi-facebook"></i></a>        <a title="Pinterest" href="#"><i class="zmdi zmdi-pinterest"></i></a>        <a title="Skype" href="#"><i class="zmdi zmdi-skype"></i></a>        <a title="Twitter" href="#"><i class="zmdi zmdi-twitter"></i></a>                                </div>
                             </div>
                             <div class="header-top-right font-smooth">
-                                <ul id="menu-useful-links" class="top-right-menu clearfix"><li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.html">About Us</a></li>
-<li id="menu-item-4158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="../rice/index.html">Grains</a></li>
-<li id="menu-item-4160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="../beans/index.html">Pulses</a></li>
-<li id="menu-item-4163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="../vegetable-oil/index.html">Edible Oils</a></li>
+                                <ul id="menu-useful-links" class="top-right-menu clearfix"><li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.php">About Us</a></li>
+<li id="menu-item-4158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="../rice/index.php">Grains</a></li>
+<li id="menu-item-4160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="../beans/index.php">Pulses</a></li>
+<li id="menu-item-4163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="../vegetable-oil/index.php">Edible Oils</a></li>
 </ul>                            </div>
                         </div>
                     </div>
@@ -178,7 +178,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                         <div class="site-header-main-inner">
                             <div class="header-main-above">
                                 <div class="site-branding">
-                                    <a class="logo-dark" href="../index.html" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a><a class="logo-light" href="../index.html" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a><a class="logo-mobile" href="../index.html" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/zeenab-favicon.png" alt="Zeenab Foods"/></a>                                </div>
+                                    <a class="logo-dark" href="../index.php" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a><a class="logo-light" href="../index.php" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a><a class="logo-mobile" href="../index.php" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/zeenab-favicon.png" alt="Zeenab Foods"/></a>                                </div>
                                                                     <div class="site-contact font-smooth">
                                                                                     <div class="ct-item ct-email">
                                                 <span><i class="fas fa-envelope-open"></i></span>
@@ -195,55 +195,55 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                 </div>
                                             </div>
                                                                                                                             <div class="ct-item site-menu-right-button">
-                                                                                                        <a href="../contact-us/index.html" target="_blank" class="menu-right-item btn hover-slide">
+                                                                                                        <a href="../contact-us/index.php" target="_blank" class="menu-right-item btn hover-slide">
                                                             <i class="icofont-price"></i> FREE QUOTE                                                        </a>
                                                                                                     </div>
                                                                             </div>
                                                             </div>
                             <div class="site-navigation">
                                 <div class="sticky-logo">
-                                    <a class="logo-light" href="../index.html" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a>                                </div>
+                                    <a class="logo-light" href="../index.php" title="Zeenab Foods" rel="home"><img src="../wp-content/uploads/2022/03/Logoze.png" alt="Zeenab Foods"/></a>                                </div>
                                 <nav class="main-navigation">
-                                    <ul id="mastmenu" class="primary-menu clearfix"><li id="menu-item-3838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3838"><a href="../index.html">Home</a></li>
-<li id="menu-item-3839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839"><a href="../about-us/index.html">About Us</a></li>
-<li id="menu-item-3840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840"><a href="../management-team/index.html">Management Team</a></li>
+                                    <ul id="mastmenu" class="primary-menu clearfix"><li id="menu-item-3838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3838"><a href="../index.php">Home</a></li>
+<li id="menu-item-3839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839"><a href="../about-us/index.php">About Us</a></li>
+<li id="menu-item-3840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840"><a href="../management-team/index.php">Management Team</a></li>
 <li id="menu-item-3851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3851"><a href="#">Products</a>
 <ul class="sub-menu">
 	<li id="menu-item-4091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4091"><a href="#">Grains</a>
 	<ul class="sub-menu">
-		<li id="menu-item-4094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4094"><a href="../rice/index.html">Rice</a></li>
-		<li id="menu-item-4092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4092"><a href="../millet/index.html">Millet</a></li>
-		<li id="menu-item-4093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4093"><a href="../sorghum/index.html">Sorghum</a></li>
+		<li id="menu-item-4094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4094"><a href="../rice/index.php">Rice</a></li>
+		<li id="menu-item-4092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4092"><a href="../millet/index.php">Millet</a></li>
+		<li id="menu-item-4093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4093"><a href="../sorghum/index.php">Sorghum</a></li>
 	</ul>
 </li>
 	<li id="menu-item-4095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4095"><a href="#">Pulses</a>
 	<ul class="sub-menu">
-		<li id="menu-item-4096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4096"><a href="../beans/index.html">Beans</a></li>
+		<li id="menu-item-4096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4096"><a href="../beans/index.php">Beans</a></li>
 	</ul>
 </li>
 	<li id="menu-item-4097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4097"><a href="#">Edible Oils</a>
 	<ul class="sub-menu">
-		<li id="menu-item-4100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4100"><a href="../palm-oil/index.html">Palm Oil</a></li>
-		<li id="menu-item-4098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4098"><a href="../soya-oil/index.html">Soya Oil</a></li>
-		<li id="menu-item-4099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4099"><a href="../vegetable-oil/index.html">Vegetable Oil</a></li>
+		<li id="menu-item-4100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4100"><a href="../palm-oil/index.php">Palm Oil</a></li>
+		<li id="menu-item-4098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4098"><a href="../soya-oil/index.php">Soya Oil</a></li>
+		<li id="menu-item-4099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4099"><a href="../vegetable-oil/index.php">Vegetable Oil</a></li>
 	</ul>
 </li>
 </ul>
 </li>
 <li id="menu-item-3852" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-3852"><a href="#">Exportable Agro-Commodities</a>
 <ul class="sub-menu">
-	<li id="menu-item-4224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4224"><a href="../cassava-chips/index.html">Cassava Chips</a></li>
-	<li id="menu-item-4105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4105"><a href="../cassia-seeds/index.html">Cassia Seed</a></li>
-	<li id="menu-item-4286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4286"><a href="../cocoa-beans/index.html">Cocoa Beans</a></li>
-	<li id="menu-item-4107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4107"><a href="../dried-split-ginger/index.html">Dried Split Ginger</a></li>
-	<li id="menu-item-4103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4103"><a href="../gum-arabic/index.html">Gum Arabic</a></li>
-	<li id="menu-item-4102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4102"><a href="../hibiscus-flower/index.html">Hibiscus Flower</a></li>
-	<li id="menu-item-4101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4101"><a href="../peanuts/index.html">Peanuts</a></li>
-	<li id="menu-item-4104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4104"><a href="../raw-cashew-nut/index.html">Raw Cashew Nut</a></li>
-	<li id="menu-item-4106" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4030 current_page_item menu-item-4106"><a href="index.html" aria-current="page">Sesame Seeds</a></li>
+	<li id="menu-item-4224" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4216 current_page_item menu-item-4224"><a href="index.php" aria-current="page">Cassava Chips</a></li>
+	<li id="menu-item-4105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4105"><a href="../cassia-seeds/index.php">Cassia Seed</a></li>
+	<li id="menu-item-4286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4286"><a href="../cocoa-beans/index.php">Cocoa Beans</a></li>
+	<li id="menu-item-4107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4107"><a href="../dried-split-ginger/index.php">Dried Split Ginger</a></li>
+	<li id="menu-item-4103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4103"><a href="../gum-arabic/index.php">Gum Arabic</a></li>
+	<li id="menu-item-4102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4102"><a href="../hibiscus-flower/index.php">Hibiscus Flower</a></li>
+	<li id="menu-item-4101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4101"><a href="../peanuts/index.php">Peanuts</a></li>
+	<li id="menu-item-4104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4104"><a href="../raw-cashew-nut/index.php">Raw Cashew Nut</a></li>
+	<li id="menu-item-4106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4106"><a href="../sesame-seeds/index.php">Sesame Seeds</a></li>
 </ul>
 </li>
-<li id="menu-item-3841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841"><a href="../contact-us/index.html">Contact Us</a></li>
+<li id="menu-item-3841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841"><a href="../contact-us/index.php">Contact Us</a></li>
 </ul>                                </nav>
                                 <div class="site-menu-right">
                                                                     </div>
@@ -267,49 +267,23 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             <div id="primary"  class="content-area content-full-width col-12">
                 <main id="main" class="site-main">
                     
-<article id="post-4030" class="post-4030 page type-page status-publish hentry">
+<article id="post-4216" class="post-4216 page type-page status-publish hentry">
     <div class="entry-content clearfix">
-        		<div data-elementor-type="wp-page" data-elementor-id="4030" class="elementor elementor-4030">
-							        <section class="elementor-section elementor-top-section elementor-element elementor-element-290347b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="290347b" data-element_type="section">
-            
-                        <div class="elementor-container elementor-column-gap-no ">
-                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fc1037b" data-id="fc1037b" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        		<div class="elementor-element elementor-element-2e1ecdf elementor-widget elementor-widget-image" data-id="2e1ecdf" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.6.8 - 27-07-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="600" height="400" src="../wp-content/uploads/2022/04/sesame-seeds-2.jpg" class="attachment-full size-full" alt="" srcset="https://zeenabfoods.com/wp-content/uploads/2022/04/sesame-seeds-2.jpg 600w, https://zeenabfoods.com/wp-content/uploads/2022/04/sesame-seeds-2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
-				</div>
-		            </div>
-        </div>
-                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e0b6173" data-id="e0b6173" data-element_type="column">
-            <div class="elementor-widget-wrap elementor-element-populated">
-                        		<div class="elementor-element elementor-element-32a77ef elementor-widget elementor-widget-cms_heading" data-id="32a77ef" data-element_type="widget" data-widget_type="cms_heading.default">
-				<div class="elementor-widget-container">
-			<div class="cms-heading layout1">
-            <h2 class="custom-heading">
-            <span >
-                Sesame Seeds            </span>
-        </h2>
-    </div>
-
-		</div>
-				</div>
-				<div class="elementor-element elementor-element-2b999ff elementor-widget elementor-widget-text-editor" data-id="2b999ff" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.6.8 - 27-07-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Sesame seed is an oil rich grain crop widely utilized in most parts of the world. This seed popularly called Benne seed is grown in Nigeria in relatively large quantity. Nigeria is reported to be the sixth largest producer of Sesame seeds in the world according to FAOSTAT 2016.</p><p>With a rich, nutty flavor, it is a common ingredient in cuisines across the world.</p>						</div>
-				</div>
-		            </div>
-        </div>
-                            </div>
-        </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-51eb729 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51eb729" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+        		<div data-elementor-type="wp-page" data-elementor-id="4216" class="elementor elementor-4216">
+							        <section class="elementor-section elementor-top-section elementor-element elementor-element-51eb729 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51eb729" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
             
                         <div class="elementor-container elementor-column-gap-default ">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-da691b0" data-id="da691b0" data-element_type="column">
             <div class="elementor-widget-wrap elementor-element-populated">
-                        		<div class="elementor-element elementor-element-af5ab84 elementor-widget elementor-widget-cms_heading" data-id="af5ab84" data-element_type="widget" data-widget_type="cms_heading.default">
+                        		<div class="elementor-element elementor-element-fd184ab elementor-widget elementor-widget-spacer" data-id="fd184ab" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.8 - 27-07-2022 */
+.e-container.e-container--row .elementor-spacer-inner{width:var(--spacer-size)}.e-container.e-container--column .elementor-spacer-inner,.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-af5ab84 elementor-widget elementor-widget-cms_heading" data-id="af5ab84" data-element_type="widget" data-widget_type="cms_heading.default">
 				<div class="elementor-widget-container">
 			<div class="cms-heading layout1">
             <h2 class="custom-heading">
@@ -322,7 +296,41 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				</div>
 				<div class="elementor-element elementor-element-bf42d39 elementor-widget elementor-widget-text-editor" data-id="bf42d39" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The nutritional benefits of sesame seeds includes their ability to prevent cancer, improve heart health, lower blood pressure, build strong bones, improve male fertility and reduces inflammation.</p>						</div>
+			<style>/*! elementor - v3.6.8 - 27-07-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Cassava can be processed in a variety of ways to arrive at different products including garri, fufu, lafun, starch, chips and pellets, etc.</p><p>The demand for Cassava Chips as an industrial product is wide. It cuts across so many industries such as distilleries, pharmaceuticals, food and most especially the animal feed industry. The estimated demand for Cassava Chips in Nigeria was found to be in excess of 1,500,000T/annum.</p>						</div>
+				</div>
+		            </div>
+        </div>
+                            </div>
+        </section>
+                <section class="elementor-section elementor-top-section elementor-element elementor-element-5857712 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5857712" data-element_type="section">
+            
+                        <div class="elementor-container elementor-column-gap-no ">
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-22d2085" data-id="22d2085" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-edac932 elementor-widget elementor-widget-image" data-id="edac932" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.8 - 27-07-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="540" height="360" src="../wp-content/uploads/2022/04/Cassava-Chips-1.jpg" class="attachment-full size-full" alt="" srcset="https://zeenabfoods.com/wp-content/uploads/2022/04/Cassava-Chips-1.jpg 540w, https://zeenabfoods.com/wp-content/uploads/2022/04/Cassava-Chips-1-300x200.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" />															</div>
+				</div>
+		            </div>
+        </div>
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fff0a06" data-id="fff0a06" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                        		<div class="elementor-element elementor-element-2db4727 elementor-widget elementor-widget-cms_heading" data-id="2db4727" data-element_type="widget" data-widget_type="cms_heading.default">
+				<div class="elementor-widget-container">
+			<div class="cms-heading layout1">
+            <h2 class="custom-heading">
+            <span >
+                Cassava Chips            </span>
+        </h2>
+    </div>
+
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-ccedec3 elementor-widget elementor-widget-text-editor" data-id="ccedec3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Cassava Chips is a product derived from cassava. Nigeria is the largest producer of cassava in the world with a yield of about 54 million tonnes of cassava in FAO stats 2012. Cassava (Manihot spp) is a tropical perennial crop cultivated mainly for its edible root, it is a staple food consumed worldwide and provides much economic benefit to the producers.</p><p>Cassava chips are unfermented white dried products of cassava with an average diameter of 3mm – 5mm often used as a carbohydrate base in the animal feed industry particularly in Europe . it can be milled into flour for other uses such as production of ethanol, cakes, doughnut and biscuits.</p>						</div>
 				</div>
 		            </div>
         </div>
@@ -359,7 +367,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="elementor-element elementor-element-d10bc31 elementor-invisible elementor-widget elementor-widget-cms_button" data-id="d10bc31" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;flash&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="cms_button.default">
 				<div class="elementor-widget-container">
 			<div class="cms-button-wrapper cms-button layout1">
-    <a href="../contact-us/index.html" target="_blank" rel="nofollow" class="btn btn-default">
+    <a href="../contact-us/index.php" target="_blank" rel="nofollow" class="btn btn-default">
                             <span class="cms-button-icon cms-align-icon-">
                             </span>
                 <span class="cms-button-text">Contact Us</span>
@@ -373,7 +381,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         					</div>
 		    </div><!-- .entry-content -->
 
-    </article><!-- #post-4030 -->
+    </article><!-- #post-4216 -->
                 </main><!-- #main -->
             </div><!-- #primary -->
 
@@ -407,10 +415,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                     </div>
                 </div>
                                 </div>
-        </div><div class="cms-footer-item col-xl-3 col-lg-3 col-md-6 col-sm-12"><section id="nav_menu-4" class="footer-top-menu widget widget_nav_menu"><h2 class="footer-widget-title">Useful Links</h2><div class="menu-useful-links-container"><ul id="menu-useful-links-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.html">About Us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="../rice/index.html">Grains</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="../beans/index.html">Pulses</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="../vegetable-oil/index.html">Edible Oils</a></li>
+        </div><div class="cms-footer-item col-xl-3 col-lg-3 col-md-6 col-sm-12"><section id="nav_menu-4" class="footer-top-menu widget widget_nav_menu"><h2 class="footer-widget-title">Useful Links</h2><div class="menu-useful-links-container"><ul id="menu-useful-links-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="../about-us/index.php">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="../rice/index.php">Grains</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="../beans/index.php">Pulses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="../vegetable-oil/index.php">Edible Oils</a></li>
 </ul></div></section></div><div class="cms-footer-item col-xl-3 col-lg-3 col-md-6 col-sm-12">        <div class="cms-get-in-touch widget">
                             <h3 class="widget-title footer-widget-title">Our Locations </h3>
                                                                 <div class="cms-contact-info-item type-address">
@@ -525,7 +533,7 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/zeenabfoods.com\/wp-admin
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.8","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/zeenabfoods.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4030,"title":"Sesame%20Seeds%20%E2%80%93%20Zeenab%20Foods","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.8","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/zeenabfoods.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4216,"title":"Cassava%20Chips%20%E2%80%93%20Zeenab%20Foods","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.mina4f3.js?ver=3.6.8' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/js/elements-handlers.min822f.js?ver=3.6.2' id='pro-elements-handlers-js'></script>
@@ -540,5 +548,5 @@ var ekit_config = {"ajaxurl":"https:\/\/zeenabfoods.com\/wp-admin\/admin-ajax.ph
 
 </body>
 
-<!-- Mirrored from zeenabfoods.com/sesame-seeds/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 12 Dec 2022 20:15:56 GMT -->
+<!-- Mirrored from zeenabfoods.com/cassava-chips/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 12 Dec 2022 20:15:54 GMT -->
 </html>

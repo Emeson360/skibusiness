@@ -1035,11 +1035,11 @@ div.dt-button:last-child {
 }
 
 .dataTable .row-details.row-details-close {
-  background: url(../img/datatable-row-openclose.html) no-repeat;
+  background: url(../img/datatable-row-openclose.php) no-repeat;
 }
 
 .dataTable .row-details.row-details-open {
-  background: url(../img/datatable-row-openclose.html) 0 -23px no-repeat;
+  background: url(../img/datatable-row-openclose.php) 0 -23px no-repeat;
 }
 
 .dataTable td .popover-content .btn-group {

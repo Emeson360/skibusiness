@@ -349,7 +349,7 @@ include_once __DIR__ . '/ski/includes/database.php';
 								<a
 									id="slider-2-slide-4-layer-10" 
 									class="rs-layer heading-default-bold rev-btn"
-									href="index.html#products" target="_blank" rel="nofollow noopener"
+									href="index.php#products" target="_blank" rel="nofollow noopener"
 									data-type="button"
 									data-rsp_ch="on"
 									data-xy="xo:11px,25px,273px,132px;yo:281px,277px,247.0000057220459px,310px;"
@@ -524,7 +524,7 @@ include_once __DIR__ . '/ski/includes/database.php';
 				<div class="elementor-element elementor-element-f633d92 elementor-invisible elementor-widget elementor-widget-cms_button" data-id="f633d92" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="cms_button.default">
 				<div class="elementor-widget-container">
 			<div class="cms-button-wrapper cms-button layout1">
-    <a href="about-us/index.html" rel="nofollow" class="btn btn-default">
+    <a href="about-us/index.php" rel="nofollow" class="btn btn-default">
                             <span class="cms-button-icon cms-align-icon-">
                             </span>
                 <span class="cms-button-text">Read More</span>
@@ -752,7 +752,7 @@ include_once __DIR__ . '/ski/includes/database.php';
 				<div class="elementor-element elementor-element-ba08526 elementor-invisible elementor-widget elementor-widget-cms_button" data-id="ba08526" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="cms_button.default">
 				<div class="elementor-widget-container">
 			<div class="cms-button-wrapper cms-button layout1">
-    <a href="about-us/index.html" target="_blank" rel="nofollow" class="btn btn-white">
+    <a href="about-us/index.php" target="_blank" rel="nofollow" class="btn btn-white">
                             <span class="cms-button-icon cms-align-icon-">
                             </span>
                 <span class="cms-button-text">LEARN MORE</span>
@@ -900,7 +900,7 @@ include_once __DIR__ . '/ski/includes/database.php';
 				<div class="elementor-element elementor-element-111d144 elementor-invisible elementor-widget elementor-widget-cms_button" data-id="111d144" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;flash&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="cms_button.default">
 				<div class="elementor-widget-container">
 			<div class="cms-button-wrapper cms-button layout1">
-    <a href="contact-us/index.html" target="_blank" rel="nofollow" class="btn btn-default">
+    <a href="contact-us/index.php" target="_blank" rel="nofollow" class="btn btn-default">
                             <span class="cms-button-icon cms-align-icon-">
                             </span>
                 <span class="cms-button-text">Contact Us</span>
