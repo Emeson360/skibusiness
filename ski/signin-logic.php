@@ -28,7 +28,7 @@ if(isset($_POST['signin'])) {
             // compare password with db_password
             if(password_verify($password, $db_password)) {
                 $_SESSION['user-id'] = $user_record['id'];
-                $_SESSION['signin-success'] = "Welcome " . $user_record['username'];
+                $_SESSION['signin-success'] = "Welcome " . $user_record['firstname'];
                 header('location: ' . ROOT_URL . 'ski/dashboard/index.php');
             }
             else {
