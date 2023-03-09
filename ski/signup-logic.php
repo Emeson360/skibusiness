@@ -1,5 +1,5 @@
 <?php
-include __DIR__ .'/includes/database.php';
+include_once __DIR__ .'/includes/database.php';
 
 
 if (isset($_POST['signup'])) {
@@ -24,7 +24,7 @@ if (isset($_POST['signup'])) {
     }
     else {
         
-        $hashed_password = password_hash($create_password, PASSWORD_DEFAULT);  
+        $hashed_password = password_hash($password, PASSWORD_DEFAULT);  
         
         // check if email already exist in database
         $user_check_query = "SELECT email FROM users WHERE email = '$email'";

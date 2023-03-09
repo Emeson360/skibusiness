@@ -353,8 +353,20 @@ unset($_SESSION['signup-data']);
                                 <?php if(isset($_SESSION['signup'])): ?>
                                     <div style="background-color: #fcc; border-radius: 10px; margin-bottom: 10px;">
                                         <p style="color: red; text-align: center; padding: 10px;"><b>
-                                            <?= $_SESSION['signup'];
+                                            <?= 
+                                                $_SESSION['signup'];
                                                 unset($_SESSION['signup']);
+                                            ?></b>
+                                        </p>
+                                    </div>
+                                <?php endif ?>
+
+                                <?php if(isset($_SESSION['signin'])): ?>
+                                    <div style="background-color: #fcc; border-radius: 10px; margin-bottom: 10px;">
+                                        <p style="color: red; text-align: center; padding: 10px;"><b>
+                                            <?= 
+                                                $_SESSION['signin'];
+                                                unset($_SESSION['signin']);
                                             ?></b>
                                         </p>
                                     </div>
@@ -368,6 +380,7 @@ unset($_SESSION['signup-data']);
                                         </p>
                                     </div>
                                 <?php endif ?>
+                                
 
                                 
                                 
@@ -710,7 +723,7 @@ unset($_SESSION['signup-data']);
                 <div class='sing-in-popup'>
                     <div class="login_message"></div>
                     <form action='<?= ROOT_URL ?>ski/signin-logic.php' method='POST'>
-                        <input type="hidden" name="_token" value="HGYLUX9faW5bU01EPZeCo2eHPa13A7fVaEIFdyvZ">                        
+                        <!-- <input type="hidden" name="_token" value="HGYLUX9faW5bU01EPZeCo2eHPa13A7fVaEIFdyvZ">                         -->
                         <div class='sing-in-box'>
                             <div class='popup-input'><label for=''>Email</label><input type='text'
                                     name='email' placeholder='Email' value=''>
@@ -718,7 +731,7 @@ unset($_SESSION['signup-data']);
                             <div class='popup-input'><label for=''>Password</label><input type='password'
                                     name='password' placeholder='Password' value=''>
                                                             </div>
-                            <div class='popup-btn'><button type='submit'>Login</button></div>
+                            <div class='popup-btn'><button type='submit' name="signin">Login</button></div>
                         </div>
                     </div>
                     <div class="text-center mt-3" >
