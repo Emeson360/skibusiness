@@ -18,7 +18,7 @@ function isLoggedIn() {
 if (isset($_GET['logout'])) {
 	session_destroy();
 	unset($_SESSION['user']);
-	header('location: ' . ROOT_URL . 'signin.php');
+	header('location: ' . ROOT_URL . 'ski/');
 }
 
 

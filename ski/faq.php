@@ -1043,7 +1043,7 @@
                 </div>
                 <div class="footer-terms">
                     <p class="second"><a href="terms.php">Terms</a> | <a href="privacy.php">Privacy</a> Powered by - <a
-                            href="https://ovalgroup.org/" target="_blank">Zeenab Group</a>
+                            href="#" target="_blank">Skibusiness</a>
                     </p>
                 </div>
             </div>
@@ -1056,7 +1056,7 @@
     </div>
 </footer>
         <!-- popup manu -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
     aria-hidden="true">
     <div class="modal-dialog dialog-popup modal-dialog-centered" role="document">
         <div class="modal-content modal-popup">
@@ -1068,15 +1068,16 @@
             <div class="modal-body">
                 <div class='sing-in-popup'>
                     <div class="login_message"></div>
-                    <form action='https://www.nigerianexportershub.com/login' method='post' id='login'>
-                        <input type="hidden" name="_token" value="HGYLUX9faW5bU01EPZeCo2eHPa13A7fVaEIFdyvZ">                        <div class='sing-in-box'>
+                    <form action='<?= ROOT_URL ?>ski/signin-logic.php' method='POST'>
+                        <!-- <input type="hidden" name="_token" value="HGYLUX9faW5bU01EPZeCo2eHPa13A7fVaEIFdyvZ">                         -->
+                        <div class='sing-in-box'>
                             <div class='popup-input'><label for=''>Email</label><input type='text'
                                     name='email' placeholder='Email' value=''>
                                                             </div>
                             <div class='popup-input'><label for=''>Password</label><input type='password'
                                     name='password' placeholder='Password' value=''>
                                                             </div>
-                            <div class='popup-btn'><button type='submit'>Login</button></div>
+                            <div class='popup-btn'><button type='submit' name="signin">Login</button></div>
                         </div>
                     </div>
                     <div class="text-center mt-3" >

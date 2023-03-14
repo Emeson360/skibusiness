@@ -1,5 +1,5 @@
 <?php
-include_once __DIR__ .'/includes/database.php';
+require_once __DIR__ .'/includes/database.php';
 
 
 if(isset($_POST['signin'])) {
@@ -37,7 +37,7 @@ if(isset($_POST['signin'])) {
             }
         }
         else {
-            $_SESSION['signin'] = "user " . $email . "not found";
+            $_SESSION['signin'] = "user " . $email . " not found";
             header('location: ' . ROOT_URL . 'signin.php');
         }
     }

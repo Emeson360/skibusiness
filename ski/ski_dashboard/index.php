@@ -2,6 +2,11 @@
 
 require_once __DIR__ . '/../includes/database.php';
 
+// Redirect if user is not logged in
+if(!isLoggedIn()) {
+  header('location: ' .ROOT_URL . 'ski/');
+}
+
 ?>
 
 

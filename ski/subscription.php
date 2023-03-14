@@ -1,3 +1,8 @@
+<?php
+require_once __DIR__ .'/includes/database.php';
+
+?>
+
 <!DOCTYPE html>
 
 <head>
@@ -141,7 +146,7 @@
                     </div>
                 </h3>
                 <div class="packages-content-btn">
-                    <a href="#">Create Free Account</a>
+                    <a href="<?php ROOT_URL ?>index.php#signup">Create Free Account</a>
                 </div>
             </div>
             <div class="packages-content-box">
@@ -178,8 +183,8 @@
                             <p>Assist with shipping logistics and clearing services</p>
                         </div>
                         <div class="packages-btn-box">
-                            <button type="submit" value="Pay Now!">
-                                Subscribe
+                            <button type="button" value="Pay Now!">
+                                <a style="border: none;" href="<?php ROOT_URL ?>index.php#signup">Subscribe</a> 
                             </button>
                         </div>
                     </div>
@@ -215,8 +220,8 @@
 
                         </div>
                         <div class="packages-btn-box">
-                            <button type="submit" value="Pay Now!">
-                                Subscribe
+                            <button type="button" value="Pay Now!">
+                                <a style="border: none;" href="<?php ROOT_URL ?>index.php#signup">Subscribe</a> 
                             </button>
                         </div>
                     </div>
@@ -250,8 +255,8 @@
                             <p>Assist with shipping logistics and clearing services</p>
                         </div>
                         <div class="packages-btn-box">
-                            <button type="submit" value="Pay Now!">
-                                Subscribe
+                            <button type="button" value="Pay Now!">
+                                <a style="border: none;" style="border: none;" href="<?php ROOT_URL ?>index.php#signup">Subscribe</a> 
                             </button>
                         </div>
                     </div>
@@ -293,8 +298,8 @@
                             <p>We provide Visa assistance services</p>
                         </div>
                         <div class="packages-btn-box">
-                            <button type="submit" value="Pay Now!">
-                                Subscribe
+                            <button type="button" value="Pay Now!">
+                                <a style="border: none;" style="border: none;" href="<?php ROOT_URL ?>index.php#signup">Subscribe</a> 
                             </button>
                         </div>
                     </div>
@@ -336,8 +341,8 @@
                             <p>We provide Visa assistance services</p>
                         </div>
                         <div class="packages-btn-box">
-                            <button type="submit" value="Pay Now!">
-                                Subscribe
+                            <button type="button" value="Pay Now!">
+                                <a style="border: none;" href="<?php ROOT_URL ?>index.php#signup">Subscribe</a> 
                             </button>
                         </div>
                     </div>
@@ -948,38 +953,8 @@
         </div>
     </div>
 </main>
-    <script>
-        $(document).ready(function() {
-            $(document).on('submit', '.user-check', function(e) {
-                var that = $(this);
-                e.preventDefault();
-                // ajx   
-                // var formData = new FormData(this);
-                jQuery.ajax({
-                    url: "https://www.nigerianexportershub.com/subscription/checkuser",
-                    method: 'post',
-                    // data: formData,
-                    dataType: 'json',
-                    processData: false,
-                    contentType: false,
-                    cache: false,
-                    headers: {
-                        'X-CSRF-Token': $('meta[name="csrf-token"]').attr(
-                            'content')
-                    },
-                    success: function(result) {
-                        if (result.status == 'true') {
-                            $(that)[0].submit();
-                        } else {
-                            $('#error-modal .login_message').text(result.msg);
-                            $('#error-modal').modal('show');
-                        }
-                    }
-                });
-            })
-        });
-    </script>
-        <footer class="main-footer">
+
+    <footer class="main-footer">
    <!-- <div class="container">
         <div class="footer content-box">
             <div id="footer">
@@ -1078,7 +1053,7 @@
                 </div>
                 <div class="footer-terms">
                     <p class="second"><a href="terms.php">Terms</a> | <a href="privacy.php">Privacy</a> Powered by - <a
-                            href="https://ovalgroup.org/" target="_blank">Skibusiness</a>
+                            href="#" target="_blank">Skibusiness</a>
                     </p>
                 </div>
             </div>
@@ -1091,7 +1066,7 @@
     </div>
 </footer>
         <!-- popup manu -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
     aria-hidden="true">
     <div class="modal-dialog dialog-popup modal-dialog-centered" role="document">
         <div class="modal-content modal-popup">
@@ -1103,15 +1078,16 @@
             <div class="modal-body">
                 <div class='sing-in-popup'>
                     <div class="login_message"></div>
-                    <form action='https://www.nigerianexportershub.com/login' method='post' id='login'>
-                        <input type="hidden" name="_token" value="HGYLUX9faW5bU01EPZeCo2eHPa13A7fVaEIFdyvZ">                        <div class='sing-in-box'>
+                    <form action='<?= ROOT_URL ?>ski/signin-logic.php' method='POST'>
+                        <!-- <input type="hidden" name="_token" value="HGYLUX9faW5bU01EPZeCo2eHPa13A7fVaEIFdyvZ">                         -->
+                        <div class='sing-in-box'>
                             <div class='popup-input'><label for=''>Email</label><input type='text'
                                     name='email' placeholder='Email' value=''>
                                                             </div>
                             <div class='popup-input'><label for=''>Password</label><input type='password'
                                     name='password' placeholder='Password' value=''>
                                                             </div>
-                            <div class='popup-btn'><button type='submit'>Login</button></div>
+                            <div class='popup-btn'><button type='submit' name="signin">Login</button></div>
                         </div>
                     </div>
                     <div class="text-center mt-3" >
@@ -1130,8 +1106,7 @@
     <script src="assets/js/custom.js"></script>
     
     
-    </body>
+</body>
 
 
-<!-- Mirrored from www.nigerianexportershub.com/subscription by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 19 Feb 2023 02:50:53 GMT -->
 </html>
