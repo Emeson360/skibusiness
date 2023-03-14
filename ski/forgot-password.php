@@ -310,7 +310,7 @@
         </div>
     </div>
     <div class="" id="loader" onclick="$(this).hide()" style="display:none;">
-        <div class="modal-backdrop-loader" style="">
+        <div class="modal-backdrop-loader" >
             <i class="fa fa-spinner fa-spin text-white font-30"
                 style="position: absolute;right: 50%;top: 50%;font-size: 26px;"></i></div>
     </div>

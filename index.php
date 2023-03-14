@@ -298,7 +298,7 @@ include_once __DIR__ . '/ski/includes/database.php';
 		<div class="wp-block-themepunch-revslider">
 			<!-- START Slider Home 2 REVOLUTION SLIDER 6.5.5 --><p class="rs-p-wp-fix"></p>
 			<rs-module-wrap id="rev_slider_2_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
-				<rs-module id="rev_slider_2_1" style="" data-version="6.5.5">
+				<rs-module id="rev_slider_2_1" data-version="6.5.5">
 					<rs-slides>
 						<rs-slide style="position: absolute;" data-key="rs-4" data-title="Slide" data-anim="p:light;" data-in="o:0;" data-out="o:0;">
 							<img decoding="async" src="" alt="slid" title="SLID" width="1380" height="552" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="<?= ROOT_URL ?>wp-content/plugins/revslider/public/assets/assets/port-export-conteiner-rigging-to-hoist-wallpaper-preview.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:108%;" data-no-retina>

@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 
-
-<!-- Mirrored from www.nigerianexportershub.com/about by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 19 Feb 2023 02:50:46 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -1422,7 +1419,7 @@
         </div>
     </div>
     <div class="" id="loader" onclick="$(this).hide()" style="display:none;">
-        <div class="modal-backdrop-loader" style="">
+        <div class="modal-backdrop-loader" >
             <i class="fa fa-spinner fa-spin text-white font-30"
                 style="position: absolute;right: 50%;top: 50%;font-size: 26px;"></i></div>
     </div>
